@@ -212,7 +212,7 @@ Used the new press-mention discovery method from the updated playbook. All 4 can
 
 A real discovery-channel win: the Nutritional Therapy Association's public directory (practitionerdirectory.nutritionaltherapy.com) lists practitioners with bios and website links, built for exactly this kind of browsing.
 
-### 7. Miriam Abrams, NTP — Beyond Nutrition (Powell River, BC, Canada)
+### 7. Miriam Abrams, NTP — Beyond Nutrition (Powell River, BC, Canada) — SENT 2026-10-30
 - **Site:** beyondnutritionntp.com
 - **What she does:** Nutritional Therapy Practitioner (NTA-certified, 2023-2024), focus on nervous system/burnout recovery, autoimmunity, digestive wellness, thyroid dysfunction.
 - **Decision-maker:** Miriam Abrams — confirmed solo, "I" throughout, no team mentioned anywhere.
@@ -238,7 +238,7 @@ A real discovery-channel win: the Nutritional Therapy Association's public direc
 >
 > Kaeto
 
-### 8. Johanna Aguirre — Whole You Care (Bellingham, WA)
+### 8. Johanna Aguirre — Whole You Care (Bellingham, WA) — SENT 2026-10-30
 - **Site:** wholeyou.care
 - **What she does:** Bilingual (English/Spanish) practice combining licensed psychotherapy (Integrative Mind Body Counseling, PLLC — standard solo-practice liability entity, not evidence of a team) with holistic wellness/nutritional therapy, offered as two separate service lines under one brand. Also runs a blog, "Letters That Nourish" (mental health, wellness, whole-person writing).
 - **Decision-maker:** Johanna Aguirre — "founder of Whole You Care," confirmed solo, no other practitioners named anywhere on site, including the blog.
@@ -269,5 +269,6 @@ A real discovery-channel win: the Nutritional Therapy Association's public direc
 
 ## Next steps (batch 4)
 1. Round 1 (press-mention) and round 2 (generic ownership-language) both found nothing — logged honestly.
-2. Round 3 (NTA directory) found 2 qualified — Miriam and Johanna drafted, not yet sent, awaiting review.
+2. Round 3 (NTA directory) found 2 qualified — Miriam and Johanna both sent (2026-10-30).
 3. The directory approach outperformed both search-based channels this batch — worth trying DONA (doula directory search widget didn't scrape cleanly as a static page, needs a different approach) and other professional-association directories first in batch 5.
+4. Pricing policy change (2026-10-30): no more priced first-touch variant — see house style section above.
