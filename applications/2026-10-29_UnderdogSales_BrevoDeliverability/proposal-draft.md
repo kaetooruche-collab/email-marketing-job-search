@@ -1,6 +1,6 @@
 # Application — Brevo deliverability and list cleanup specialist (Underdog Sales)
 
-**Status: DRAFT, NOT SUBMITTED.** Channel: direct email (not Upwork's own system) — you made this call; see the risk note below, carried over from earlier.
+**Status: SENT 2026-10-30.** Channel: direct email to gsc@underdogsales.com (not Upwork's own system) — you made this call; see the risk note below, carried over from earlier.
 
 **Job:** https://www.upwork.com/freelance-jobs/apply/Brevo-deliverability-and-list-cleanup-specialist_~022115757776792063959/
 **Budget:** $350 fixed, 2 milestones ($150 / $200)
