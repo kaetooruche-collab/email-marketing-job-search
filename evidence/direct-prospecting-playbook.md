@@ -37,3 +37,54 @@ Per master prompt §12.1, services Kaeto can credibly deliver today based on ver
 - LinkedIn connection review still needs Kaeto (no connector access this session) — export connections or flag names for research.
 
 Prospect research against the method above starts in `evidence/prospects-medical-wellness.md`.
+
+## Systematic search framework (added 2026-10-30, after batch 3)
+
+Batch 3 showed diminishing returns on generic "solo [niche] website" phrase searches — increasingly surfacing marketing-advice blogs and course-sellers instead of real practice sites, and burning search calls on dead ends (team practices, sites that already have an opt-in, expired domains). This section replaces ad-hoc querying with a defined demographic map and a repeatable discovery method per sub-niche, so future batches spend less effort per qualified lead.
+
+### Target demographic taxonomy
+
+The niche decision ("medical, healthcare & wellness, small/independent operators who can decide fast") breaks down into these sub-niches. Each entry notes what's been tried, the typical business-structure risk (solo vs. team — the single most common disqualifier so far), and the typical already-has-a-system risk (the second most common disqualifier).
+
+| Sub-niche | Tried so far | Solo risk | Already-has-opt-in risk |
+|---|---|---|---|
+| Nutritional therapists (NTA/BANT-certified) | Yes — Martina | Low (certification implies solo by nature) | Low |
+| Registered dietitians (RD/RDN) private practice | Yes — Susan Spear (qualified), Stephanie Dorfman (disqualified) | Low-Medium | **High** — many RDs are marketing-savvy, run their own newsletters/courses |
+| Functional/integrative nutrition & medicine | Yes — Claire (qualified), Vallee Health Repair (disqualified, team) | **Medium-High** — functional medicine increasingly consolidates into multi-provider clinics | Medium |
+| Birth doulas | Yes — Susan Robinson | Medium — check for "collective"/team language | Low |
+| Postpartum doulas / infant sleep consultants | Yes — Sleep Child O Mine (disqualified, team) | **High** — these frequently bundle into 2-3 person "collectives" | Low-Medium |
+| Lactation consultants (IBCLC) | Searched, no direct site found yet | Unknown | Unknown |
+| Midwives (independent) | Not yet tried | Unknown — many home-birth midwives are genuinely solo | Unknown |
+| Licensed therapists/counselors (LPC/LCSW/LMFT) | Attempted twice, low yield (SEO noise + one dead domain) | Low if explicitly "solo private practice" | Medium — many are coached into building lists early in practice-building courses |
+| Pelvic floor / specialty physical therapists | Yes — Angela Fishman | Low | Medium (watch for course-sales side businesses) |
+| Massage therapists (medical/therapeutic) | Searched, no direct site found yet | Unknown | Unknown |
+| Chiropractors (solo) | Yes — Dr. Dan Dunbar (disqualified, already has opt-in) | Low if "I personally see every patient" language present | **High** — chiropractic has a mature practice-marketing industry pushing newsletters |
+| Acupuncturists (solo) | Yes — Bellingham (disqualified, ambiguous+already has lead magnet), Aquino (disqualified, team) | Medium | Medium |
+| Medical estheticians / small med spas | Yes — Skin By Leah (disqualified, scaled brand) | **High** — this category trends toward product lines and multi-location growth fast | **High** — Shopify-based sites ship with email capture by default |
+| Bridal/event/fitness health coaches | Yes — Ciera Sunshine (qualified), Cynthia Hengeli (disqualified) | Low | Medium — holistic coaching has a mature "build your email list" industry push |
+| Naturopathic doctors | Not yet tried | Unknown | Unknown |
+| Master herbalists | Overlaps with Martina's secondary credential; not separately tried | Unknown | Unknown |
+
+### Why generic search is running out of road
+
+Google-style phrase search ("solo [niche] website book a free call") increasingly returns: (a) marketing/business-coaching content aimed AT practitioners rather than practitioner sites themselves, (b) course-sellers and practice-growth consultants, (c) directory aggregator pages with no individual site behind them. The deeper into a niche a search goes, the more these crowd out real small-practice sites.
+
+### Better discovery channels to use instead, going forward
+
+1. **Professional-association "find a practitioner" directories** — these list real, individually verified practitioners by design, often filterable by solo/independent status or location:
+   - Nutritional Therapy Association (NTA) practitioner directory
+   - British Association for Nutritional Therapy (BANT) directory
+   - DONA International doula directory
+   - ILCA ("Find a Lactation Consultant") directory
+   - Psychology Today's therapist directory (filterable by state, and profiles often self-describe as solo/group)
+   - State licensing board public directories (confirms licensure; doesn't confirm web presence, so pair with a follow-up site check)
+2. **Press/podcast-mention search** — "[niche] featured in [local outlet]" or searching outlet names directly (Voyage ATL, ShoutOut, CanvasRebel-style city magazines, local news segments) surfaced two of the six qualified prospects so far (Susan Robinson, Angela Fishman) — a notably higher hit rate than generic phrase search.
+3. **Instagram bio-link browsing** — searching niche + "solo" directly on Instagram (not Google) surfaced Reclaiming Her Counseling; the bio often states solo/group status explicitly and links to the live current site, avoiding the expired-domain problem hit this batch.
+4. **Local business directory listings (not aggregator SEO content)** — e.g. a city's own small-business spotlight features, chamber of commerce member listings.
+
+### Per-niche checklist before spending a scrape on a candidate
+
+1. Does the "About" or bio explicitly say solo/founder, or name 2+ practitioners/staff? (biggest single disqualifier)
+2. Is there already a visible opt-in, lead magnet, or "subscribe to our emails" block anywhere? (second biggest disqualifier)
+3. Is the platform Shopify/product-brand-shaped rather than a service-booking site? (correlates strongly with already-has-capture)
+4. Is there real audience-building evidence (press, podcast, book, YouTube) to anchor a specific, non-generic opener? (not required, but raises message quality when present — true for 4 of the 6 qualified prospects so far)
