@@ -150,7 +150,7 @@
       <div class="hero-text">
         <h1>Kaeto Oruche</h1>
         <div class="role-line">Email Marketing & Lifecycle Systems Specialist</div>
-        <p>I build email marketing systems that turn existing databases into better-qualified, more engaged leads. From lifecycle architecture and behavioural segmentation to marketing automation, deliverability and campaign analytics, I build the infrastructure behind email marketing that actually works.</p>
+        <p>I design and manage email marketing systems that help businesses identify, qualify and nurture leads more effectively. From lifecycle architecture and behavioural segmentation to marketing automation, deliverability and campaign analytics, I bring together the strategy, infrastructure and execution behind effective email marketing.</p>
         <div class="tag-row">
           <span class="tag">Lifecycle architecture</span>
           <span class="tag">Marketing automation</span>
@@ -218,7 +218,7 @@
       <h4>Investigation</h4>
       <p>Audited all 216 past campaigns, tagging each by topic, angle, vertical and engagement result, to find out which angles were being overused and which hadn't been tried.</p>
       <h4>System built</h4>
-      <p>A three-tier content framework ranked by engagement, a set of distinct content angles derived from the findings, and a library of 20 reusable email frameworks with rotation rules so no contact sees the same approach twice in a row.</p>
+      <p>Developed a three-tier content framework informed by engagement findings, identified additional content angles, and created a library of 20 reusable email frameworks with rotation rules designed to reduce consecutive sends relying on the same approach.</p>
       <h4>Why it matters</h4>
       <p>Content selection moved from "what feels relevant this week" to a structured, trackable rotation — the kind of operating system a team can run without reinventing the plan every Monday.</p>
     </div>
@@ -230,22 +230,22 @@
       <h4>Business challenge</h4>
       <p>The company runs a weekly webinar for its German-market audience as its primary conversion event. The database includes people who've never registered, people who registered but never attended, and past attendees — three populations with very different relationships to the brand.</p>
       <h4>Underlying problem</h4>
-      <p>Early campaigns treated the database uniformly. Engagement in the past-attendee segment decayed badly under repeated, undifferentiated weekly sends.</p>
+      <p>Early campaigns treated the database uniformly. Engagement among past attendees had declined under repeated, undifferentiated weekly campaigns.</p>
       <h4>System built</h4>
-      <p>A three-tier invite system with different cadence and copy treatment per tier, produced weekly, plus a locked and stress-tested post-webinar template. Mandatory formula rotation means no contact gets the same approach twice running.</p>
+      <p>A three-tier invite system with different cadence and copy treatment per tier, produced weekly, plus a locked and stress-tested post-webinar template. Formula rotation is built into the process to reduce repetitive messaging across consecutive campaigns.</p>
       <h4>Why it matters</h4>
       <p>This is the difference between a newsletter and a system: the same weekly event, but three different conversations depending on what each contact has actually done.</p>
-      <div class="result muted"><strong>What's not yet quantified:</strong> I haven't separately measured the performance delta the tiered system produced versus the uniform approach it replaced — the system is live and in its stress-testing phase.</div>
+      <div class="result muted"><strong>What's not yet quantified:</strong> I haven't separately measured the performance delta the tiered system produced versus the uniform approach it replaced — the system is live and continues to undergo operational testing and refinement.</div>
     </div>
 
     <div class="case compact">
       <div class="section-label" style="margin-top:4px">Case Study</div>
       <h3>The Scandinavian Re-Engagement Sequence</h3>
       <h4>Business challenge</h4>
-      <p>Sales was about to cold-call 481 Scandinavian leads who'd gone quiet — outreach to fully disengaged contacts has a predictable failure rate.</p>
+      <p>Sales was preparing to contact a group of 481 Scandinavian leads who had gone quiet. Without a re-engagement step, the sales team risked approaching contacts without first re-establishing context or interest.</p>
       <h4>System built</h4>
       <p>A three-email sequence over ten days, segmented by engagement tier, each email doing one job: re-establish context, provide value, create a reason to respond before the call.</p>
-      <div class="result muted"><strong>Honestly:</strong> no reply or conversion data was separately tracked for this sequence. What I can show is the architecture and the reasoning — a deliberate warm-up layer instead of handing sales a cold list of names.</div>
+      <div class="result muted"><strong>Measurement limitation:</strong> reply and conversion data were not separately tracked for this sequence. This case study therefore demonstrates the sequence architecture and its intended role in supporting sales outreach, rather than claiming a measured conversion outcome.</div>
     </div>
   </div>
 </section>
@@ -257,10 +257,10 @@
 
     <div class="card-grid">
       <div class="card"><div class="tag2">Architecture</div><h4>Lifecycle State Model</h4><p>A mutually exclusive state system where every contact sits in exactly one current state, while sticky history flags track everything they've ever done. A resolver computes state automatically from precedence logic.</p></div>
-      <div class="card"><div class="tag2">Qualification</div><h4>Evidence-Led Lead Scoring</h4><p>Rebuilt lead scoring from a 40-point to a 20-point scale using 200+ historical campaigns as the evidence base, with a dual-gate qualification rule rather than a single threshold.</p></div>
-      <div class="card"><div class="tag2">Engagement</div><h4>Behaviour-Based Segmentation</h4><p>Five tiers driven by click recency, not opens — Apple Mail Privacy Protection makes open data unreliable, so the model is built around the signal that's still trustworthy.</p></div>
-      <div class="card"><div class="tag2">Attribution</div><h4>UTM Infrastructure</h4><p>A tracking structure covering 750+ tagged URLs across 5 platforms, with standardised naming so every click attributes to its original source, medium and campaign.</p></div>
-      <div class="card"><div class="tag2">Hygiene</div><h4>List Hygiene Pipeline</h4><p>MX pre-filtering on inbound leads across a database of roughly 85,000 contacts, with orphaned-record isolation (1,564 records found and remediated) and engagement-based suppression.</p></div>
+      <div class="card"><div class="tag2">Qualification</div><h4>Evidence-Led Lead Scoring</h4><p>Redesigned the lead-scoring model from a 40-point to a 20-point scale following analysis of 200+ historical campaigns. Introduced a dual-gate qualification rule to assess both engagement and intent rather than relying on a single score threshold.</p></div>
+      <div class="card"><div class="tag2">Engagement</div><h4>Behaviour-Based Segmentation</h4><p>Five engagement tiers driven primarily by click recency rather than opens. Apple Mail Privacy Protection makes open tracking unreliable, while click-based qualification carries its own limitation — it isn't fully immune to automated link activity either.</p></div>
+      <div class="card"><div class="tag2">Attribution</div><h4>UTM Infrastructure</h4><p>A standardised tracking structure covering 750+ tagged URLs across 5 platforms, supporting consistent attribution of traffic to its original source, medium and campaign.</p></div>
+      <div class="card"><div class="tag2">Hygiene</div><h4>List Hygiene Pipeline</h4><p>MX pre-filtering on inbound leads across a database of roughly 85,000 contacts, with 1,564 orphaned records identified and isolated into dedicated remediation files, plus engagement-based suppression.</p></div>
       <div class="card"><div class="tag2">Deliverability</div><h4>Email Authentication & Deliverability Diagnosis</h4><p>Diagnosed a deliverability problem at the source: missing DKIM record, SPF missing the sending platform's include, and a poorly-reputed shared IP. Diagnosis and documentation — not claiming the fix, since remediation depended on DNS access outside the role.</p></div>
     </div>
 
@@ -323,30 +323,11 @@
   </div>
 </section>
 
-<section id="approach" class="philosophy">
-  <div class="wrap">
-    <div class="section-label">How I Approach Email Marketing</div>
-    <h2>Accelerated conversion vs. long-term nurture</h2>
-    <p class="lede">The core idea behind the systems above: not every contact needs the same message at the same cadence. Someone who's demonstrated high intent needs a short, direct path to conversion. Someone still building trust needs education, not a sales pitch repeated weekly. Treating both the same way is the most common mistake in email programmes that rely on a single broadcast calendar.</p>
-
-    <div class="microwave-grid">
-      <div class="mw-card"><div class="k">⚡ Accelerated track</div><h4>"The Microwave"</h4><p>High-intent leads who've demonstrated enough engagement that generic educational content makes little sense. Shorter path, more direct communication, accelerated toward conversion.</p></div>
-      <div class="mw-card"><div class="k">🔥 Nurture track</div><h4>"The Oven"</h4><p>Contacts who need weeks or months of education before they have enough trust or urgency. You don't keep opening the door every five minutes asking why they're not ready — you let the process work.</p></div>
-    </div>
-
-    <blockquote class="mini">Permission marketing is the privilege — not the right — of delivering anticipated, personal and relevant messages to people who actually want to get them.<cite>Seth Godin</cite></blockquote>
-  </div>
-</section>
-
 <section id="results" class="results">
   <div class="wrap">
     <div class="section-label">Results</div>
     <h2 style="color:#fff">What changed, with context</h2>
     <div class="stat-row">
-      <div><div class="stat-num">~230</div><div class="stat-label">Campaigns managed</div><div class="stat-cap">Jan–Aug 2026, activity metric</div></div>
-      <div><div class="stat-num">91,000+</div><div class="stat-label">Emails delivered</div><div class="stat-cap">Successful deliveries, not raw sends</div></div>
-      <div><div class="stat-num">&lt;0.02%</div><div class="stat-label">Spam complaint rate</div><div class="stat-cap">Across 91,000+ delivered, same period</div></div>
-      <div><div class="stat-num">~85,000</div><div class="stat-label">Contacts in the database</div><div class="stat-cap">Total managed, not a daily-active count</div></div>
       <div><div class="stat-num">41</div><div class="stat-label">Contact lists built</div><div class="stat-cap">Scale metric</div></div>
       <div><div class="stat-num">11</div><div class="stat-label">Lead magnet sequences</div><div class="stat-cap">Built with matching email flows</div></div>
       <div><div class="stat-num">750+</div><div class="stat-label">UTM-tagged URLs</div><div class="stat-cap">Across 5 platforms</div></div>
@@ -356,12 +337,25 @@
     <div class="unsub-box">
       <div class="section-label">Audience Management — Before & After</div>
       <div class="unsub-row">
-        <div><div class="unsub-num">~0.6%</div><div class="unsub-period">January 2026 &middot; unsubscribe rate</div></div>
+        <div><div class="unsub-num">0.60%</div><div class="unsub-period">January 2026 &middot; unsubscribe rate</div></div>
         <div class="unsub-arrow">→</div>
-        <div><div class="unsub-num">~0.2%</div><div class="unsub-period">Summer 2026 &middot; unsubscribe rate</div></div>
+        <div><div class="unsub-num">0.23%</div><div class="unsub-period">Summer 2026 &middot; unsubscribe rate</div></div>
       </div>
       <div class="unsub-pct">~62% lower, on a monthly basis</div>
-      <div class="unsub-note">Monthly send volume more than doubled over the same period. This is a correlation I observed, not a claim that higher volume caused the improvement — the list-hygiene and segmentation work above ran across the same window.</div>
+      <div class="unsub-note">Monthly send volume more than doubled over the same period. This is a correlation I observed, not a claim that higher volume caused the improvement — the list-hygiene and segmentation work above ran across the same window. Spam complaint rate (&lt;0.02%, see proof strip) is reported across the same 91,000+ delivered emails and measurement period.</div>
+    </div>
+  </div>
+</section>
+
+<section id="approach" class="philosophy">
+  <div class="wrap">
+    <div class="section-label">How I Approach Email Marketing</div>
+    <h2>Accelerated conversion vs. long-term nurture</h2>
+    <p class="lede">Not every contact needs the same message, cadence or level of urgency. Someone demonstrating high intent needs a relevant, direct path towards conversion. Someone still developing trust needs education and context. My approach is to let behaviour determine the next communication, rather than treating an entire database as one audience.</p>
+
+    <div class="microwave-grid">
+      <div class="mw-card"><div class="k">⚡ Accelerated track</div><h4>"The Microwave"</h4><p>High-intent leads who've demonstrated enough engagement that generic educational content makes little sense. Shorter path, more direct communication, accelerated toward conversion.</p></div>
+      <div class="mw-card"><div class="k">🔥 Nurture track</div><h4>"The Oven"</h4><p>Contacts who need weeks or months of education before they have enough trust or urgency. You don't keep opening the door every five minutes asking why they're not ready — you let the process work.</p></div>
     </div>
   </div>
 </section>
@@ -424,7 +418,7 @@
     <div class="section-label">Contact</div>
     <h2>Let's discuss your email marketing needs.</h2>
     <p>Whether you need someone to build your email infrastructure from scratch, fix a system that's underperforming, or design lifecycle architecture that actually qualifies leads — I'd like to hear what you're working with.</p>
-    <div class="avail">Open to freelance projects, consulting engagements and full-time roles where this kind of systems thinking is the point, not an afterthought.</div>
+    <div class="avail">Open to full-time opportunities, freelance projects and consulting engagements involving email marketing strategy, lifecycle systems and marketing automation.</div>
     <div class="cta-row">
       <a class="btn btn-primary" href="mailto:kaetooruche@gmail.com?subject=Let%27s%20talk%20about%20your%20email%20system">Start a conversation</a>
     </div>
