@@ -88,6 +88,14 @@ Batch 4's first round checked 4 press-featured practitioners found via the metho
 
 Also newly confirmed as a real disqualifying pattern: **lactation consultants and IBCLCs skew toward already having an opt-in or course-funnel** (3 of 3 checked so far — Annie Frisbie, Katie James, Stephanie Wong — either had multi-person practices or active email tools). Downgrading this sub-niche's priority for future batches unless a specific candidate shows no opt-in on direct inspection.
 
+### Refinement after batch 4, round 3: professional-association directories outperform search
+
+Two rounds of search-based discovery (press-mention, then generic ownership-language) found 0 qualified prospects. Switching to the Nutritional Therapy Association's public practitioner directory (practitionerdirectory.nutritionaltherapy.com) found 2 qualified prospects out of 3 profiles checked — a much better hit rate. The directory lists real practitioners with bios, specialties, and website links, which skips past the vendor-page/SEO-blog noise that plain search (especially WebSearch) kept surfacing for niches like acupuncture and occupational therapy.
+
+**Practical note on these directories:** the static HTML listing page works fine with a scrape (the NTA one does, 100 names per page with direct profile links). An interactive search widget that requires filling in a form/map to return results (DONA International's doula finder appears to be this type) won't return useful results from a plain scrape — that needs either finding a pre-filtered URL some other way, or isn't accessible through this project's tools at all. Confirm a directory is a static listing before investing time in it.
+
+**For batch 5+:** prioritize directories over search where one exists for the sub-niche (NTA/BANT for nutrition confirmed working; still worth trying Psychology Today for therapists, ILCA for lactation despite the downgrade above, and any state licensing board public rosters).
+
 ### Per-niche checklist before spending a scrape on a candidate
 
 1. Does the "About" or bio explicitly say solo/founder, or name 2+ practitioners/staff? (biggest single disqualifier)

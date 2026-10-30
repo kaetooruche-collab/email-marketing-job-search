@@ -202,6 +202,66 @@ Used the new press-mention discovery method from the updated playbook. All 4 can
 - **Lee-Ann Lacasse, Bodyworks Massage & Wellness** — her own podcast interview title: "Lessons From Growing A Bodywork Business To 10+ People." Team, not solo.
 - **Dr. Ray / Revée Barbour, ND MS** (A Dose of Vitamin Ray) — excellent press (Sacramento Magazine, Forbes Health, U.S. News & World Report, MindBodyGreen), but has a "Subscribe & Get My Best Tips to Instantly Boost Energy & Focus" opt-in on her homepage.
 
+## Round 2: practice-led search (ownership language, no press requirement) — 0 qualified
+
+- **WebSearch underperformed for this task** — queries for "solo acupuncturist" and "independent occupational therapist" returned almost entirely vendor/booking-software pages and advice blogs, not real individual practice sites. Firecrawl's own search remains the better tool here.
+- **Crystal Harter, NP** (Hudson Valley Beauty Lab & Medi Spa, Newburgh NY) — her own line confirms solo ("my practice is a separate entity... through only me"), but she operates inside a team business (owner Randi Quick + staff + esthetician + referral program) — doesn't cleanly fit "independent practitioner with their own web presence." No confirmed email found either (phone only). Disqualified on fit and on gate 3.
+- **Samaria Stubbs** ("Now We're Talkin'" coaching) — only a LinkedIn mention found; coaches partly through an app platform, no dedicated website located. Dead end.
+
+## Round 3: NTA practitioner directory — 2 of 3 qualified
+
+A real discovery-channel win: the Nutritional Therapy Association's public directory (practitionerdirectory.nutritionaltherapy.com) lists practitioners with bios and website links, built for exactly this kind of browsing.
+
+### 7. Miriam Abrams, NTP — Beyond Nutrition (Powell River, BC, Canada)
+- **Site:** beyondnutritionntp.com
+- **What she does:** Nutritional Therapy Practitioner (NTA-certified, 2023-2024), focus on nervous system/burnout recovery, autoimmunity, digestive wellness, thyroid dysfunction.
+- **Decision-maker:** Miriam Abrams — confirmed solo, "I" throughout, no team mentioned anywhere.
+- **Observed gap:** No email opt-in or newsletter found on homepage or /about-me.
+- **Contact channel confirmed:** miriamabramsntp@gmail.com — listed directly in her site's footer contact block.
+- **Confidence:** VERIFIED.
+
+**Draft message (price variant: with $175):**
+> Hi Miriam — getting diagnosed with Hashimoto's at 27 and managing it through diet and lifestyle instead of medication says a lot about how you actually practice what you teach.
+>
+> One thing I noticed: there's no way for someone who visits your site to stay in touch if they're not ready to book a discovery call right away — no newsletter, no follow-up.
+>
+> I'd set up a short, 2-3 email sequence for people who need more time before booking, so they hear from you again instead of just forgetting your site existed.
+>
+> Nothing touching client health records — just the marketing side.
+>
+> I'm an MPharm graduate who moved into building email marketing systems for health and wellness practices.
+>
+> Flat fee: $175 for the full sequence, no retainer. No worries if it's not useful right now.
+>
+> Kaeto
+
+### 8. Johanna Aguirre — Whole You Care (Bellingham, WA)
+- **Site:** wholeyou.care
+- **What she does:** Bilingual (English/Spanish) practice combining licensed psychotherapy (Integrative Mind Body Counseling, PLLC) with holistic wellness/nutritional therapy, offered as two separate service lines under one brand.
+- **Decision-maker:** Johanna Aguirre — "founder of Whole You Care," confirmed solo, no other practitioners named.
+- **Observed gap:** No email opt-in or newsletter found on homepage.
+- **Contact channel confirmed:** johanna@wholeyou.care — direct mailto link in the site footer.
+- **Confidence:** VERIFIED.
+
+**Draft message (price variant: no price, soft ask):**
+> Hi Johanna — bridging nutritional therapy and mental well-being, and building Whole You Care bilingually in English and Spanish, is a combination most practices in either lane don't attempt.
+>
+> One thing I noticed: there's no way for someone who finds your site to stay in touch if they're not ready to book a discovery call that day — no newsletter, no follow-up sequence.
+>
+> I'd put together a short, 2-3 email sequence for people who need more time before reaching out, so Whole You Care stays on their radar instead of getting lost.
+>
+> Nothing touching client records — just the marketing side.
+>
+> I'm an MPharm graduate who now builds email marketing systems for health and wellness practices.
+>
+> Happy to send over a sample of the first email. No worries if it's not useful right now.
+>
+> Kaeto
+
+## Checked, did not qualify
+- **Megan Abbott / Trifecta Collective** (Richmond, VA) — found via the same NTA directory, but her own site names an "associate practitioner" (Brendon McCarville). Team, not solo.
+
 ## Next steps (batch 4)
-1. Round 1 found nothing to send — this happens, logged honestly rather than padding the batch.
-2. Try round 2 with a different sub-niche or discovery channel per the downgraded lactation-consultant priority and the press-coverage caveat now in the playbook.
+1. Round 1 (press-mention) and round 2 (generic ownership-language) both found nothing — logged honestly.
+2. Round 3 (NTA directory) found 2 qualified — Miriam and Johanna drafted, not yet sent, awaiting review.
+3. The directory approach outperformed both search-based channels this batch — worth trying DONA (doula directory search widget didn't scrape cleanly as a static page, needs a different approach) and other professional-association directories first in batch 5.
