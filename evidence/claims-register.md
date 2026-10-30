@@ -1,5 +1,35 @@
 # Central Evidence & Claims Register
 
+## ⚠ GOVERNING SOURCE (2026-10-30): the claim bank supersedes this file where they conflict
+
+A new document, `kaeto-source-material-raw.txt`, was supplied 2026-10-30 — explicitly addressed to "Kaeto or any LLM drafting on his behalf." It's built from **actual re-counted Brevo export data** (33 export files, merged and scripted, not re-typed from memory), with an explicit evidence-grading system (A = re-counted from exports, B = stated by Kaeto with no outcome metric, R = restricted/use only on instruction, X = never use) and hard rules. **This is now the primary source for any public-facing claim.** This file's job going forward is to flag conflicts and track what's resolved, not to be the first place to look.
+
+### Corrections this forced to already-produced material (fixed 2026-10-30)
+- `applications/2026-10-29_UnderdogSales_BrevoDeliverability/proposal-draft.md` named HIBARR directly — **fixed**, employer no longer named anywhere in that file (hard rule: never name HIBARR in public-facing material; use "a German-market financial advisory company," or omit the employer entirely as the final chat-approved email does).
+- Same file used the exact figures "245 campaigns," "90K+ sends," "bounce rates down 10%." The export re-count does not reproduce these: use **"roughly 230 campaigns," "91,000+ delivered," "under 0.02% spam complaints."** The "10% bounce rate decrease" claim has no A-grade or B-grade support at all in the claim bank — drop it. — **fixed**, the final approved email cites no exact figures.
+- **"67% unsubscribe reduction" is not reproduced by the export re-count.** Actual: ~62% drop month-over-month (Jan 0.598% → Aug 0.226%), or ~37% on a quarterly view. Stop using "67%" anywhere, including the portfolio audit I wrote and the evidence table below (not yet corrected in the table itself — treat the table's "67%" row as superseded by this note until the table is rewritten).
+
+### Two unresolved conflicts — need Kaeto's direct confirmation, not my guess
+1. **German proficiency.** DOC-2 (Email Marketing CV) claims "German (working level, sufficient to write and QA campaigns)." The claim bank explicitly excludes this: *"KT does not speak German... languages are English and very basic Turkish... Confirm with KT before writing anything stronger [than 'managed email for a German-market audience']."* These flatly contradict each other. **Not usable in either direction until Kaeto says which is true.**
+2. **A/B testing.** DOC-2 has a full bullet claiming A/B testing with a 12% CTR result ("Managed end-to-end A/B testing for promotional emails... increased click-through rates by an average of 12%"). The claim bank states: *"A/B testing has not been implemented (ruled 6 October 2026)."* Also contradictory. **Not usable in either direction until resolved.** This matters for the HIBARR CV line and any future proposal that mentions A/B testing.
+
+### New hard rules now in force everywhere (encoded here so they're not lost)
+- Never write "pharmacist," "licensed pharmacist," or "as a pharmacist." Use "MPharm graduate," "pharmacy graduate," or "worked in community pharmacy."
+- Never name HIBARR in public-facing material (portfolio, Upwork, pitches, LinkedIn). CVs follow Kaeto's per-application instruction; default to generic if unsure.
+- Public-facing location wording: **"Kyrenia, Cyprus."** (This doesn't replace the TRNC-specific accuracy needed for the payment-routing research in `payment-routing.md` — that's a different purpose and stays as is.)
+- De Montfort University certificate: stays off all CVs/letters.
+- n8n and Klaviyo: confirmed excluded (n8n is in the employer's stack but Kaeto doesn't operate it; Klaviyo gap already cost a job application — consistent with what this file already had marked PROHIBITED).
+- SQL, GA4, CSS/scripting, Liquid, AMPscript, paid ads, SMS/push, organic social: none demonstrated, don't claim.
+- Open and click rates: below benchmark, restricted — never on a CV, never volunteered in a bid.
+- Soft bounce rate actually **rose** (2.56% → 3.54%, Jan–Aug 2026) — a real, self-acknowledged weak spot. Restricted: don't volunteer it, but state it plainly if directly asked.
+- Job-search filter: opportunities requiring more than ~2 years of experience are outside Kaeto's stated search criteria.
+- Chosen first freelance niche, confirmed independently in this document too: health/medical/wellness, specifically because the MPharm + pharmacy background is a genuine differentiator there — consistent with the niche decision already made earlier in this project.
+
+Full raw document: `evidence/kaeto-source-material-raw.txt`.
+
+---
+
+
 Source of truth for every factual claim used in CVs, proposals, outreach, and the opportunity-matching engine. Every claim below traces to one of the three source documents supplied on 2026-10-30:
 
 - **DOC-1**: `KAETOCHUKWU_EUGENE_ORUCHE_MPharm_Master_CV_Information.pdf`
@@ -46,7 +76,7 @@ No claim below has been checked against a Brevo dashboard export, employer refer
 | Campaigns | 245 | 245 | 245 | PARTIALLY VERIFIED |
 | Emails delivered | 90,103 | 90,103 | 90,103 | PARTIALLY VERIFIED |
 | Spam complaint rate | 0.019% | 0.019% | 0.019% | PARTIALLY VERIFIED |
-| Unsubscribe rate reduction | 67% | not stated | 67% | PARTIALLY VERIFIED |
+| Unsubscribe rate reduction | 67% | not stated | 67% | **SUPERSEDED — see top of file.** Export re-count: ~62% (monthly) or ~37% (quarterly). Do not use "67%." |
 | Qualified lead conversion increase | 15% | 15% | not restated as headline, consistent with case studies | PARTIALLY VERIFIED |
 | Reactivation rate / recovered contacts | 25% reactivation, 5,000 contacts | 25%, 5,000 contacts | implied in Scandinavian case study (481 leads is a *different*, smaller cohort) | PARTIALLY VERIFIED |
 | Bounce rate decrease | 10% | 10% | not restated | PARTIALLY VERIFIED |
@@ -65,7 +95,7 @@ No claim below has been checked against a Brevo dashboard export, employer refer
 | Claim | Source | Status |
 |---|---|---|
 | Brevo (Sendinblue) — hands-on, built infrastructure from scratch | All 3 docs | PARTIALLY VERIFIED — this is the one platform with consistent, detailed, cross-document support. Treat as your strongest documented tool claim. |
-| German-language copywriting/QA, "working level" | DOC-2, DOC-3 (German webinar/angle work) | PARTIALLY VERIFIED |
+| German-language copywriting/QA, "working level" | DOC-2, DOC-3 (German webinar/angle work) | **CONFLICT — see top of file. Claim bank explicitly excludes German proficiency. Do not use until Kaeto confirms which is true.** |
 | n8n, API-based automation | **Master prompt owner-profile section only** | **PROHIBITED until evidenced — not in any of the 3 CVs/portfolio.** Do not claim n8n experience in applications. If you've actually used n8n, say so and I'll add it as UNVERIFIED pending detail. |
 | Make.com / Zapier | Not in any of the 3 documents | **PROHIBITED** — several live job postings specifically require this (see discovery report); do not claim it. |
 | Klaviyo | Not in any of the 3 documents | **PROHIBITED** — several live job postings specifically require this; your documented platform experience is Brevo, not Klaviyo. |

@@ -1,0 +1,280 @@
+
+Kaeto Oruche: Source Material for Portfolio, CV, Pitch and Upwork Bid
+Reference document for Kaeto or any LLM drafting on his behalf. Prepared 30 October 2026 from KT’s stated information, with headline metrics re-counted from the Brevo campaign exports (section 5A).
+1. How to use this document
+Treat sections 3 to 5 as the only approved source of claims. If a claim is not in the claim bank, do not write it.
+Every claim carries an evidence grade (section 3). Never upgrade a grade, never round a number up, and keep each figure’s scope attached (period, population, who measured it).
+Section 2 lists hard rules that override any style or persuasion goal. Section 6 lists what must never appear.
+Where this document says “confirm with KT”, ask or flag it. Do not guess.
+Provenance: grade A figures were re-counted from the Brevo exports (see section 5A); other claims were stated by KT and are not independently verified. Wording marked [inference] is the author’s reading.
+2. Hard rules
+Name: use “Kaeto Oruche” on portfolio material. Not the full legal name, and not “KT”, which is an internal shorthand.
+Location line on CVs: “Kyrenia, Cyprus”. Do not tailor the location to a target city.
+Pharmacy credential: KT is not a licensed or registered pharmacist. Never write “pharmacist”, “licensed pharmacist”, “registered pharmacist” or “as a pharmacist”. Use “MPharm graduate”, “pharmacy graduate”, “trained in pharmacy” or “worked in community pharmacy”.
+Employer naming: in public-facing material (portfolio site, Upwork profile and bids, pitches, LinkedIn) do not name HIBARR. Describe it as “a German-market financial advisory company”. Do not call it a “brand”. On CVs, follow KT’s instruction for that application (the Canadian-format pharmacy CV is to name HIBARR Trading Limited). If unsure, default to the generic description and ask.
+Engagement metrics: open rates and click rates are below benchmark and must not appear on a CV. Defensible headline metrics are complaint rate, unsubscribe trajectory and raw volume (use the re-counted figures in section 5).
+Audience: do not state an age range for HIBARR’s audience. It has not been confirmed.
+Certificates: the De Montfort University certificate stays off all CVs and letters.
+Human voice: CVs and bids must read as written by a person (see section 8).
+Honesty over polish: stretch jobs are worth trying, but never manufacture equivalence where responsibility, technical depth, regulation or seniority differ.
+3. Evidence grades
+Grade
+Meaning
+How to use it
+A
+A numeric result re-counted from the Brevo exports (section 5A).
+May be used as a headline figure with the safe wording given. State the scope: January to August 2026.
+B
+A thing KT built, designed or did, stated by him, with no outcome metric attached.
+Use as a scope or capability claim (“built”, “designed”). Never imply it produced a measured result.
+R
+Restricted: true but harmful or misleading if used loosely.
+Do not use unless KT instructs. See section 6.
+X
+Not established, or not KT’s to claim.
+Never use.
+4. Identity and contact
+Item
+Detail
+Name
+Kaeto Oruche
+Role
+Email Marketing Specialist; sole owner of the email marketing function at a German-market financial advisory company, since January 2026. Reports to the CMO.
+Location
+Kyrenia, Cyprus. Works fully remotely.
+Email
+kaetooruche@gmail.com
+LinkedIn
+linkedin.com/in/kaeto-oruche
+Portfolio site
+kaeto-oruche-email-marketing.netlify.app
+Personal brand handle
+@KaetoCyprus
+Languages
+English; very basic Turkish. Do not claim German proficiency (see section 5).
+Education
+MPharm, Eastern Mediterranean University (September 2018 to July 2024).
+Earlier work
+Community pharmacy, Famagusta, Cyprus: part-time intern June 2023 to May 2024; full-time pharmacy assistant August 2024 to November 2025 (mostly elderly, repeat-prescription patients). About two and a half years in total.
+Headline direction (agreed)
+Email Marketing & Marketing Automation Specialist | Lifecycle & CRM Systems | Regulated Industries
+5. Claim bank
+Columns: ID, the claim, evidence grade, safe wording to copy, and limits on use.
+ID
+Claim
+Grade
+Safe wording
+Limits
+C1
+Built the email marketing function from scratch on Brevo; sole owner; from January 2026.
+B
+Built and run the email marketing function end to end as sole owner, on Brevo, since January 2026.
+Do not say “led a team” or “managed a department”.
+C2
+Re-counted from exports: 248 campaign IDs and 91,005 delivered emails sent 1 Jan to 26 Aug 2026 (228 campaigns after removing test and 1-to-1 sends). KT stated 245 and 90,103.
+A
+Sent 91,000+ delivered emails across roughly 230 campaigns between January and August 2026.
+The campaign count includes test and 1-recipient sends, so use “roughly 230”, not 245 or 248. Counted through 26 Aug 2026 only.
+C3
+Re-counted: 16 complaints on 91,005 delivered (0.018%). KT stated 0.019%.
+A
+Kept spam complaints under 0.02% across 91,000+ delivered emails.
+Counts differ by one (16 or 17) depending on which export snapshot of a campaign is used, so say “under 0.02%”.
+C4
+Re-counted monthly unsubscribe rate: 0.598% in Jan 2026 to 0.226% in Aug 2026 (62% lower); quarter view 0.360% (Jan to Mar) to 0.226% (Jun to Aug), 37% lower. KT stated 0.194% for the end point.
+A
+Cut the monthly unsubscribe rate from about 0.6% in January 2026 to about 0.2% by summer, while monthly send volume more than doubled.
+The 67% figure is NOT reproduced by the exports; do not use it. January is the smallest base (11 campaigns, 4,181 delivered). The trend is not smooth (April 0.373%). August covers sends to the 26th only. Cause is not documented.
+C5
+Re-counted hard bounce rate: 147 on 94,054 sent (0.156%). KT stated 0.158%.
+A
+Hard bounce rate of about 0.16%.
+April 2026 spiked to 0.827%, from one campaign (111 hard bounces on 3,554 sent). Supporting figure only.
+C6
+41 contact lists; 11 lead magnets.
+B
+Built 41 contact lists and 11 lead magnets with matching email sequences.
+Not all magnets are live (see C21).
+C7
+Rebuilt lead scoring from 40 to 20 points using 200+ historical campaigns.
+B
+Rebuilt lead scoring from 40 down to 20 points, using 200+ historical campaigns as the evidence base.
+No conversion outcome is documented. Note: in the current webinar build scoring is disabled.
+C8
+216-campaign forensic audit producing a three-tier content framework and six banking content angles.
+B
+Audited 216 past campaigns and turned the findings into a three-tier content framework and a set of six content angles.
+Do not state which angles performed best.
+C9
+750+ URL UTM tracking structure across 30+ agents and 5 platforms.
+B
+Built a UTM tracking structure covering 750+ URLs across 5 platforms.
+Confirm with KT what “agents” means before using “30+ agents”.
+C10
+Lifecycle state resolver with precedence logic; five-tier engagement ladder driven by click recency; dual-gate qualification.
+B
+Designed a lifecycle state model with precedence logic and a five-tier engagement ladder based on click recency rather than opens, because Apple MPP inflates open data.
+Tier thresholds are reasoned from structure, not derived from HIBARR data. Say “designed”, not “proved”.
+C11
+Isolated 1,564 orphaned contact records into nine remediation files; ran a large list hygiene pipeline with MX pre-filtering over a database of roughly 85K contacts.
+B
+Cleaned a roughly 85K-contact database with MX pre-filtering and isolated 1,564 orphaned records into nine remediation files.
+The 85K figure is approximate.
+C12
+Weekly production of German-language webinar invite and post-webinar emails; post-webinar template locked and stress-tested across multiple cycles June to September 2026.
+B
+Run weekly email production for a live webinar programme: invite sequences by audience tier plus a post-webinar template stress-tested across multiple cycles.
+Do not quote any post-webinar open or click result (see R3).
+C13
+Weekly webinar campaign reporting and analysis for the CMO.
+B
+Deliver weekly campaign reporting and analysis to the CMO.
+None.
+C14
+Maintains a locked HTML email rendering standard; can open and fix HTML email templates.
+B
+Write and maintain an HTML email standard and edit email template HTML directly.
+Do not claim CSS, scripting, Liquid or AMPscript.
+C15
+Diagnosed an authentication problem (September 2026): no Brevo DKIM record, SPF missing the Brevo include, shared IP graded D, Yahoo and Microsoft dropping mail.
+B
+Ran a deliverability audit that found missing DKIM and SPF records for the sending platform and poor shared-IP reputation.
+Diagnosis only. Whether it was fixed and what changed is not established. Do not claim a fix.
+C16
+Designed a separate outreach system for 772 sourced Berlin investor contacts in 13 groups, with per-group copy and pre-draft quality checks.
+B
+Designed a separate cold-outreach system for 772 investor contacts, segmented into 13 groups with copy written per group.
+No reply or conversion data exists. Do not claim responses.
+C17
+Designed a three-email, ten-day re-engagement sequence for 481 Scandinavian leads ahead of Sales calls.
+B
+Designed a three-email re-engagement sequence to warm 481 leads before sales outreach.
+Outcome not documented.
+C18
+Built a 20-framework email library with rotation rules (May to July 2026).
+B
+Built a library of 20 email frameworks with rotation rules.
+None.
+C19
+Mapped four lead lists with per-lead exemptions for property campaigns.
+B
+Planned multi-list property sends with per-lead exclusions so no contact received the wrong campaign.
+None.
+C20
+Audited the exposé funnels of German real-estate agencies (23-column tracker; five agencies logged so far).
+B
+Benchmarking the lead-capture and delivery funnels of German real-estate agencies to inform a new property exposé.
+In progress. Say five logged, not ten.
+C21
+Live lead magnets as of September 2026: banking checklist, document-prep checklist, eBook. Others are designed but not built.
+B
+Three lead magnets live, with further sequences written.
+Do not imply all 11 are live.
+C22
+Founded RemoteNC, a remote job board with its own email list, welcome automation and WhatsApp channel; also offers CV and LinkedIn services.
+B
+Built and run a remote job board with its own newsletter automation, plus CV and LinkedIn optimisation services.
+Separate venture on a personal Brevo account. No revenue or subscriber figures are documented.
+C23
+MPharm; about 2.5 years in community pharmacy.
+B
+MPharm graduate with about two and a half years of community pharmacy experience.
+Follow the section 2 phrasing rules.
+5A. Re-count against the Brevo exports
+Method: 33 Brevo campaign export files (semicolon-delimited, sends from 2025-07 to 2026-08-26) merged by Campaign ID, keeping the row with the highest Sent value when a campaign appears in several files. 362 unique campaign IDs in total; 248 sent in 2026. Counts were run by script, not by hand. The brevo_campaign_report files were used only for the post-webinar check.
+Metric (2026 sends)
+KT stated
+Counted
+Reading
+Campaigns
+245
+248 (228 excl. tests and 1-to-1)
+Within 1%; test sends inflate it
+Delivered
+90,103
+91,005
+Within 1%
+Hard bounce rate
+0.158%
+0.156%
+Confirmed
+Spam complaints
+0.019%
+16 on 91,005 (0.018%)
+Confirmed, under 0.02%
+Unsubscribe, Jan
+0.598%
+0.598%
+Confirmed exactly
+Unsubscribe, Aug
+0.194%
+0.226% (to 26 Aug)
+Not reproduced; 62% drop, not 67%
+Soft bounce, Jan to Aug
+2.56% to 3.56%
+2.56% to 3.54%
+Confirmed
+Post-webinar 75% / 24.32% / n=37
+stated
+No matching campaign
+Unverified
+
+Not covered by this re-count: open and click rates were counted only in passing and are not used; the 216-campaign audit, scoring rebuild, list counts and the cadence test were not re-derived; the exports hold no registration or booking data.
+6. Restricted and excluded
+Restricted (R): use only on KT’s instruction
+R1. Open and click rates. Below benchmark. Never on a CV. Do not offer them in a bid unless a client asks.
+R2. Soft bounce trend. Re-counted: 2.56% in January to 3.54% in August 2026 (KT stated 3.56%); confirmed. This is KT’s own stated weak spot. Do not volunteer it. If asked, state it plainly alongside the hard bounce and complaint figures.
+R3. The 75% open / 24.32% click / 37 recipients post-webinar result is NOT verified. No campaign in the exports matches it. The two closest are the 30 June post-webinar email (37 delivered, 23 unique openers, 13 clickers) and the 14 July one (37 delivered, 21 openers, 12 clickers). Do not use any version of this claim unless KT supplies the source file.
+R4. Cadence-test decay numbers (not re-counted). Past Registrants open rate 27% to 11%, click rate about 2.7% to about 0.8% (January to June 2026). These are open and click figures. Describe the analytical finding without the numbers: “identified list fatigue in a lapsed segment and tested a reduced send cadence”. The test’s re-check result is not documented.
+Excluded (X): never claim
+n8n as a personal skill. It is in the HIBARR stack, but KT does not know how to use it. Describing the stack as “Brevo” is accurate; adding n8n as his skill is not.
+Klaviyo. No demonstrated experience. This gap cost him a job application, so do not imply familiarity.
+SQL, GA4, CSS or scripting, Liquid, AMPscript.
+German language proficiency. The programme produces German-language campaigns, but KT’s languages are English and very basic Turkish. Safe wording: “managed email for a German-market audience”. Confirm with KT before writing anything stronger.
+A/B test results. A/B testing has not been implemented (ruled 6 October 2026).
+Revenue, registrations, consultations booked or ROI. No attribution data exists yet; registration export is planned for later.
+HIBARR company claims that are not KT’s work, such as client counts.
+Licensed or registered pharmacist status.
+Paid ads, SMS or push experience, and organic social. None demonstrated. KT sees paid ads and SMS/push as quick to learn; he ruled out organic social.
+7. Use-case guidance
+7.1 CV
+Lead with C1, C2, C3, C4, then the systems claims (C7, C8, C10, C11). Close with C14 and C23.
+Format for Canadian or other pharmacy roles: a plain, human-written CV that does not read as city-specific. Name the employer only as section 2 allows.
+Judge every role by work performed, ownership and problem complexity. Title and years alone mislead.
+Jobs requiring more than about two years of experience are outside KT’s search. His stated cutoff was tightened from 3 years to “anything above 2 years disqualifies”; the exact treatment of 2 years was not clarified.
+7.2 Portfolio site
+Name the employer generically. Present three or four case studies built from C4 (hygiene and unsubscribe trajectory), C10 (lifecycle model and why opens were demoted), C11 (list cleanup) and C12 (webinar email production).
+Show structure and reasoning, not engagement results. Each case study should state the problem, the decision, and what is and is not known about the outcome.
+Include the soft bounce weak spot only in a short “what I would fix next” note if KT wants it.
+7.3 Pitch (cold outreach to a prospective client or employer)
+Open with the recipient’s likely problem, not KT’s history. Use one or two claims only, chosen for relevance (C4 and C11 for list health; C10 for lifecycle design; C15 for deliverability).
+End with one specific question about their list or sending setup. No attachments, no promises of results.
+For health companies (the first freelance target segment KT chose), the MPharm and community pharmacy background is a differentiator. Use the section 2 phrasing.
+7.4 Upwork bid
+Length: short. Three to six sentences plus one question.
+Structure: (1) restate the client’s problem in their words; (2) one relevant proof point from the claim bank; (3) one concrete first step KT would take; (4) one question about their setup.
+Platforms: name Brevo confidently. For Klaviyo, Mailchimp or HubSpot jobs, say what KT has actually done and do not imply platform experience he lacks.
+Never quote an outcome for the client. Never cite open or click rates.
+Profile headline direction: lifecycle email and CRM systems for regulated or health-adjacent businesses. KT has said he expects to lean into copywriting, so copy samples may be added to the portfolio later; none are documented here.
+HIBARR permits outside client work, so freelance engagement does not conflict with the current role.
+8. Wording and tone rules
+Plain, concrete, specific. Numbers with scope, then stop.
+CV bullets start with a verb and carry no pronouns. Bids and pitches are written in first person.
+Avoid common AI tells: “passionate”, “results-driven”, “spearheaded”, “leveraged”, “seamlessly”, “delve”, “tapestry”, “in today’s fast-paced”, stacked triplets, and em-dash-heavy sentences.
+Vary sentence length. Do not open every bullet the same way.
+Use “designed” or “built” for B-grade claims. Use “reduced” or “held” only for the A-grade results.
+If a draft needs a claim that is not in section 5, stop and flag the gap rather than filling it.
+9. Ready-to-adapt text
+Treat these as starting points only. They contain no claim outside section 5.
+Two-sentence bio
+Kaeto Oruche is an email marketing specialist who built and ran the full email function for a German-market financial advisory company on Brevo. His work covers lifecycle design, list hygiene and weekly webinar email production, with a spam complaint rate of 0.019% across 90,103 delivered emails.
+CV summary (about 50 words)
+Email marketing specialist and MPharm graduate. Built a full Brevo-based email function from scratch: 245 campaigns, 41 lists, 11 lead magnets. Reduced unsubscribes from 0.598% to 0.194% while volume held. Designs lifecycle models, scoring and list hygiene for regulated, trust-sensitive audiences.
+Upwork opener skeleton
+[Restate the client’s problem in one sentence.] I run email for a regulated-industry company on Brevo, and a similar issue came up there: [one relevant proof point from section 5]. I would start by [first concrete step]. Quick question: [one question about their list, platform or sending setup]?
+10. What this document does not cover
+Headline figures were re-counted from the Brevo exports (section 5A) and cover sends up to 26 August 2026. Anything sent or changed since is not reflected.
+No conversion, registration, consultation or revenue data. The webinar registration export is planned, not yet done.
+No outcome data for the investor system, Scandinavian sequence or cadence-test re-check.
+RemoteNC and the CV/LinkedIn service have no documented revenue or subscriber numbers.
+Open items to confirm with KT: the meaning of “30+ agents” (C9); whether the August 2026 figures have been updated; preferred wording for German-market work; whether a deliverability fix followed C15.
