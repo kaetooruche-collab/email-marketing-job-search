@@ -216,45 +216,51 @@ A real discovery-channel win: the Nutritional Therapy Association's public direc
 - **Site:** beyondnutritionntp.com
 - **What she does:** Nutritional Therapy Practitioner (NTA-certified, 2023-2024), focus on nervous system/burnout recovery, autoimmunity, digestive wellness, thyroid dysfunction.
 - **Decision-maker:** Miriam Abrams — confirmed solo, "I" throughout, no team mentioned anywhere.
-- **Observed gap:** No email opt-in or newsletter found on homepage or /about-me.
+- **Observed gap (revised, 2026-10-30):** Original check ("no opt-in found") was incomplete — a full link extraction found a Mailchimp link (`eepurl.com/i8wvXo`) on the homepage. Followed it directly: it redirects to a genuine Mailchimp subscribe-form URL (`gmail.us22.list-manage.com/subscribe?...`) which returns a **404 "That's odd, this page appears to be missing."** So she built an opt-in at some point, but the live signup link is currently broken — same pattern as her /contact page (also previously found broken). This is the final, corrected gap used in outreach: a broken, not absent, capture mechanism.
+- **Personalization (revised):** switched away from her Hashimoto's diagnosis (self-disclosed but too personal/health-sensitive for a cold pitch) to a non-health detail from her About page: trained as a yoga teacher in Costa Rica (Jivani 200hr, 2016) before landing on the NTA program.
 - **Contact channel confirmed:** miriamabramsntp@gmail.com — listed directly in her site's footer contact block.
 - **Confidence:** VERIFIED.
 
-**Draft message (price variant: with $175):**
-> Hi Miriam — getting diagnosed with Hashimoto's at 27 and managing it through diet and lifestyle instead of medication says a lot about how you actually practice what you teach.
+**Final draft (Kaeto's own version):**
+> Hi Miriam,
 >
-> One thing I noticed: there's no way for someone who visits your site to stay in touch if they're not ready to book a discovery call right away — no newsletter, no follow-up.
+> I was looking through the Beyond Nutrition website and noticed the Mailchimp subscription link.
 >
-> I'd set up a short, 2-3 email sequence for people who need more time before booking, so they hear from you again instead of just forgetting your site existed.
+> I tried following it, but it currently leads to a page-not-found error.
 >
-> Nothing touching client health records — just the marketing side.
+> That means someone who wants to keep up with your work may not be able to subscribe. It's a relatively small website issue, but it could mean losing an opportunity to stay connected with interested visitors.
 >
-> I'm an MPharm graduate who moved into building email marketing systems for health and wellness practices.
+> I work on email marketing systems for health and wellness practices. I could help get the signup process working again and build a short welcome sequence to introduce new subscribers to your approach and services.
 >
-> Flat fee: $175 for the full sequence, no retainer. No worries if it's not useful right now.
+> I'm an MPharm graduate, so healthcare and wellness are fields I understand beyond just the marketing side.
+>
+> I could put together an example of what I'd recommend for Beyond Nutrition. Would you be open to seeing it?
 >
 > Kaeto
 
 ### 8. Johanna Aguirre — Whole You Care (Bellingham, WA)
 - **Site:** wholeyou.care
-- **What she does:** Bilingual (English/Spanish) practice combining licensed psychotherapy (Integrative Mind Body Counseling, PLLC) with holistic wellness/nutritional therapy, offered as two separate service lines under one brand.
-- **Decision-maker:** Johanna Aguirre — "founder of Whole You Care," confirmed solo, no other practitioners named.
-- **Observed gap:** No email opt-in or newsletter found on homepage.
+- **What she does:** Bilingual (English/Spanish) practice combining licensed psychotherapy (Integrative Mind Body Counseling, PLLC — standard solo-practice liability entity, not evidence of a team) with holistic wellness/nutritional therapy, offered as two separate service lines under one brand. Also runs a blog, "Letters That Nourish" (mental health, wellness, whole-person writing).
+- **Decision-maker:** Johanna Aguirre — "founder of Whole You Care," confirmed solo, no other practitioners named anywhere on site, including the blog.
+- **Observed gap:** No email opt-in or newsletter found — rechecked thoroughly across homepage, /counseling, /holistic-wellness, and /blog with full link extraction (not just visible form fields); nothing from Mailchimp, ConvertKit, Flodesk, or similar found anywhere.
+- **Personalization angle used:** her "Letters That Nourish" blog — content exists with no way for a reader to resubscribe or hear more.
 - **Contact channel confirmed:** johanna@wholeyou.care — direct mailto link in the site footer.
 - **Confidence:** VERIFIED.
 
-**Draft message (price variant: no price, soft ask):**
-> Hi Johanna — bridging nutritional therapy and mental well-being, and building Whole You Care bilingually in English and Spanish, is a combination most practices in either lane don't attempt.
+**Final draft (Kaeto's own version):**
+> Hi Johanna,
 >
-> One thing I noticed: there's no way for someone who finds your site to stay in touch if they're not ready to book a discovery call that day — no newsletter, no follow-up sequence.
+> I was looking through Whole You Care and noticed you've created Letters That Nourish as a space for writing about mental health, wellness and the whole person.
 >
-> I'd put together a short, 2-3 email sequence for people who need more time before reaching out, so Whole You Care stays on their radar instead of getting lost.
+> I had a thought about how that content could work harder for your practice.
 >
-> Nothing touching client records — just the marketing side.
+> Someone might read one of your articles, find it useful, and leave without any way to receive your next piece of writing or hear more about your work.
+>
+> A simple email subscription, followed by two or three carefully written emails, could give readers a reason to stay connected and help introduce them to your counselling and holistic wellness services over time.
 >
 > I'm an MPharm graduate who now builds email marketing systems for health and wellness practices.
 >
-> Happy to send over a sample of the first email. No worries if it's not useful right now.
+> Would you be open to seeing an example of how I'd approach this for Whole You Care?
 >
 > Kaeto
 

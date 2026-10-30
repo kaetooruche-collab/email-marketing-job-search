@@ -96,6 +96,20 @@ Two rounds of search-based discovery (press-mention, then generic ownership-lang
 
 **For batch 5+:** prioritize directories over search where one exists for the sub-niche (NTA/BANT for nutrition confirmed working; still worth trying Psychology Today for therapists, ILCA for lactation despite the downgrade above, and any state licensing board public rosters).
 
+## House style for drafts (derived 2026-10-30 from Kaeto's own rewrites)
+
+Kaeto has rewritten most drafted messages before sending (Claire, Susan Robinson, Angela, Miriam, Johanna). Comparing his final sent/approved versions against the original drafts shows a consistent formula — draft to this pattern by default, not the earlier looser style:
+
+1. **"Hi Name,"** — comma, full stop, new sentence. Not "Hi Name — observation" on an em-dash.
+2. **Name the business/site explicitly in sentence one** — "I came across My Pelvic Therapy," not "I came across your site."
+3. **Insert a short bridge sentence between the observation and the gap** — "I had an idea about how that could work harder for your practice," "It made me curious about what happens to...," "There's an opportunity to change that." Present in nearly every rewrite; don't skip straight from compliment to gap.
+4. **State the gap as a mini-scenario from the visitor's point of view**, not a flat absence. Not "there's no newsletter, no follow-up" — instead "someone might read one of your articles, find it useful, and leave without any way to hear more."
+5. **Frame the fix around what the reader/visitor gets**, not what Kaeto will build. "Could give interested visitors access to useful information," not "I'd set up a 2-3 email sequence."
+6. **Write in full connected sentences, never label fragments.** Not "Flat fee: $175, no retainer." Instead: "I'd build and set up the sequence for a flat $175, with no retainer or ongoing commitment."
+7. **Close with an offer, then a question, in that order, and the verb is "seeing," not "sending."** "I'd be interested in putting together an example of how this could work for [Business]. Would you be open to seeing it?"
+8. **Default to no price in the first message.** The last four rewrites in a row (Susan Robinson, Angela, Miriam, Johanna) all dropped the priced variant even when the draft included $175 — treat no-price-first-touch as the current default, not one half of an active A/B test, until Kaeto says otherwise.
+9. Credential line stays as its own sentence: "I'm an MPharm graduate" plus a clause tying it to the current work — the exact connector varies ("who now builds email marketing systems for...", "so healthcare and wellness are fields I understand beyond just the marketing side") and either is fine, but it's always folded into one sentence, never split.
+
 ### Per-niche checklist before spending a scrape on a candidate
 
 1. Does the "About" or bio explicitly say solo/founder, or name 2+ practitioners/staff? (biggest single disqualifier)
