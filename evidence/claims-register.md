@@ -27,6 +27,9 @@ A new document, `kaeto-source-material-raw.txt`, was supplied 2026-10-30 — exp
 
 Full raw document: `evidence/kaeto-source-material-raw.txt`.
 
+### New personal fact, confirmed directly by Kaeto in chat (2026-10-30)
+- **Personal weight-change history:** Kaeto has personally gained and lost significant weight through changing how he eats, feels, and thinks about food. Confirmed directly by Kaeto (not from the three source docs or the claim bank) — grade equivalent to B (stated by Kaeto, no outcome metric attached). Usable as a genuine personal connector in outreach to nutrition/metabolic-health-focused prospects (first used: Martina Pignatone Instagram DM, 2026-10-30). Don't attach specific numbers (amount lost/gained, timeframe) unless Kaeto confirms those too.
+
 ---
 
 

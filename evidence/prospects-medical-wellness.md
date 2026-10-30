@@ -2,7 +2,7 @@
 
 Method: master prompt §12.2 (observable evidence required per prospect, not assumed). This is batch 1 (4 prospects individually checked) toward the eventual 50-100 target — not a mass list. All are solo/small independent practices (decision-maker = owner, can decide fast), found via web search, each homepage/site individually scraped and read, not inferred.
 
-**Status as of 2026-10-30: 2 of 4 sent (Claire, Susan). Martina not sent — contact channel still unconfirmed. ANNAZUR not pursued (see below).**
+**Status as of 2026-10-30: 3 of 4 sent (Claire and Susan Spear by email, Martina by Instagram DM). ANNAZUR not pursued (see below).**
 
 Research note for future batches: checked actual cold-email conversion data mid-batch-1 — mass/templated outreach needs ~142-500 emails per client; heavily personalized, narrow-target outreach (what this batch does) converts at ~1 per 24 per published benchmarks, and the literature's own recommendation for this style is batches of 30-80, not 3-4. Batch 1's small size was always meant as a first pass, not the full test — see batch 2+ for scale-up toward the 50-100 target.
 
@@ -30,8 +30,16 @@ Research note for future batches: checked actual cold-email conversion data mid-
 - **Location correction (2026-10-30):** earlier note said "likely Australia-based" from the site's "en-AU" tag — that's just a Squarespace locale setting, not a real signal. A clinician directory (diagnosisdiet.com) independently lists her as based in **Turin, Italy**, consistent with her own About page.
 - **Observed gap:** Blog's most recent post is dated 6 July 2023 — over three years stale. No visible email opt-in or newsletter anywhere on the site. Additionally: her own /contact page form is broken — Squarespace's unconfigured-form placeholder text is live on the page ("This form needs a storage option... tell us where to save form submissions"), meaning a visitor who fills it out right now likely goes nowhere.
 - **Decision-maker:** Martina Pignatone (solo practice).
-- **Contact channel:** Checked thoroughly this pass (homepage, /about, /work-with-me [404], /contact [broken form], /disclaimer) — genuinely no email published anywhere. This is a real gap, not a missed check like Claire's initial pass. Confirmed real Instagram: @martinanutritionaltherapy (933 followers, bio matches exactly). **UNCONFIRMED via direct observation — flagged for Hunter.io lookup** (per 2026-10-30 decision to use Hunter.io as a backup for prospects where a thorough on-site check turns up nothing).
-- **Confidence:** PARTIALLY VERIFIED — the gap is directly observed; contact channel still needs Hunter.io or a direct Instagram DM.
+- **Contact channel used:** Instagram DM, @martinanutritionaltherapy (933 followers, bio matches exactly: "Metabolic Therapies for Mind and Body. Psychology Grad. Nutritional Therapist. Currently Training in Dietetics"). Switched to this channel after a thorough 5-page on-site check (homepage, /about, /work-with-me [404], /contact [broken form], /disclaimer) found no published email — Hunter.io lookup wasn't needed in the end.
+- **Status: SENT via Instagram DM, 2026-10-30.** Note: DMs to non-followers often land in Instagram's "message requests" filter rather than the main inbox — may go unseen even if not actively rejected.
+- **Confidence:** VERIFIED — gap and channel both directly confirmed; message sent.
+
+**Final message sent (includes Kaeto's own confirmed personal history — see claims-register.md):**
+> Hey Martina! I came across your page and genuinely love your work — the mind/food/metabolism connection doesn't get addressed enough, and it's clear you actually live it, not just teach it.
+>
+> I've gained and lost a lot of weight myself from changing how I eat, feel, and think about food, so this kind of work means a lot to me.
+>
+> I went through your page and noticed your contact form might not be working right now, and there's no way for someone to stay in touch if they're not ready to book the moment they land on your page. I build simple email follow-ups for health practices for exactly this — happy to share what I'd suggest if that's ever useful, no pressure either way!
 
 **Draft opening message (channel TBD):**
 > Hi Martina — I was reading through your articles on metabolic health and noticed your blog hasn't been updated since 2023, and there's no way for a reader to opt in for more. That's a lot of good content with no system behind it to bring people back or build a list from it. I could set up a simple email capture + a short welcome sequence using what you've already written, so new readers become an actual list instead of a one-time visit. Flat fee, small scope — let me know if that's useful and I'll send details.
@@ -61,8 +69,7 @@ Research note for future batches: checked actual cold-email conversion data mid-
 ---
 
 ## Next steps (batch 1)
-1. Claire and Susan sent (2026-10-30) — watch for replies.
-2. Martina still needs a contact channel — queued for Hunter.io.
+1. Claire, Susan Spear, and Martina all sent (2026-10-30) — watch for replies.
 
 ---
 
