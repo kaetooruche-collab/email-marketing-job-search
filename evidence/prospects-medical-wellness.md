@@ -151,7 +151,7 @@ Lower yield this round: checked 6 new candidates across doula/sleep-consulting, 
 
 ## Strong candidates
 
-### 6. Angela Fishman, PT — My Pelvic Therapy (virtual, licensed in IL/CA/CO/FL/NH)
+### 6. Angela Fishman, PT — My Pelvic Therapy (virtual, licensed in IL/CA/CO/FL/NH) — SENT 2026-10-30
 - **Site:** mypelvictherapy.com
 - **What she does:** Licensed physical therapist, pelvic floor specialist, 20+ years experience. Spent 17 years as a senior PT at Advocate Lutheran General Hospital (Park Ridge, IL) before going fully virtual and solo. PT degree from Duke University. Also runs a separate course product ("My Pelvic Therapy Academy") at a courses subdomain.
 - **Observed gap:** Genuinely well-featured in press — Bustle, Glamour, Insider, Medium (Authority Magazine), Giddy, Sofia & Grace — but checked both the homepage and /about page and found no email opt-in or newsletter anywhere for the main 1:1 therapy practice. One honest caveat: her separate course-sales subdomain has its own generic "email marketing" clause in its privacy policy (standard course-platform boilerplate for buyers), so she isn't a total stranger to email as a concept — but that's a backend transactional flow for course purchasers, not a top-of-funnel system turning her press coverage into a list, which is the actual gap.
@@ -159,18 +159,20 @@ Lower yield this round: checked 6 new candidates across doula/sleep-consulting, 
 - **Contact channel confirmed:** angela@mypelvictherapy.com — found directly on her /media (press kit) page: "Contact Angela directly at: angela@mypelvictherapy.com."
 - **Confidence:** VERIFIED — gap and contact both directly observed.
 
-**Draft message (price variant: with $175):**
-> Hi Angela — 17 years at Advocate Lutheran General before going fully virtual is a real foundation, not just a credential list.
+**Final message sent (Kaeto's own version, no price — "Version A"):**
+> Hi Angela,
 >
-> One thing I noticed: you've been featured in Bustle, Glamour, Insider, and a few others, but there's no way for someone who finds you through any of that press to stay in touch unless they book a consultation right away.
+> I came across My Pelvic Therapy and noticed you've been featured in publications like Bustle, Glamour and Insider.
 >
-> I'd set up a short, 2-3 email sequence for people who find you through press or search but aren't ready to book yet, so you stay top of mind instead of just being one more article they read.
+> It made me curious about what happens to someone who discovers your practice through one of those features but isn't quite ready to book.
 >
-> Nothing touching client health records — just the marketing side.
+> I couldn't find a way for them to stay connected with you beyond revisiting the website themselves.
 >
-> I'm an MPharm graduate who moved into building email marketing systems for health and wellness practices.
+> There's an opportunity to change that. A simple email sign-up could give interested visitors access to useful information about pelvic health, your approach to treatment and what they can expect from working with you. A short automated sequence could then help turn that initial interest into a consultation when they're ready.
 >
-> Flat fee: $175 for the full sequence, no retainer. No worries if it's not useful right now.
+> I'm an MPharm graduate, and I now build email marketing systems for health and wellness businesses.
+>
+> I'd be interested in putting together an example of how this could work for My Pelvic Therapy. Would you be open to seeing it?
 >
 > Kaeto
 
@@ -182,5 +184,5 @@ Lower yield this round: checked 6 new candidates across doula/sleep-consulting, 
 - **Reclaiming Her Counseling** (Clarissa Stolte, LPC, Austin TX) — confirmed solo via her own Instagram bio ("a solo private practice"), but her website (desertrootscounseling.com, found via a cached FAQ page) is a dead/expired Squarespace account. Her actual current site wasn't found this pass — worth a second look in batch 4 via her Instagram bio link directly rather than search.
 
 ## Next steps (batch 3)
-1. Angela drafted, not yet sent — awaiting review/approval.
-2. Continue toward the 50-100 target in batch 4; worth trying different search angles than "solo [niche] website" phrasing, which is increasingly surfacing marketing-advice content and course-sellers rather than real practice sites.
+1. Angela sent (2026-10-30) — watch for replies.
+2. Continue toward the 50-100 target in batch 4 using the systematic search framework now in `direct-prospecting-playbook.md`.
