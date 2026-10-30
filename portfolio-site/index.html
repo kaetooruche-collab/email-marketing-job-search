@@ -1,0 +1,339 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kaeto Oruche — Email Marketing & Lifecycle Systems</title>
+<meta name="description" content="Email Marketing Specialist. I build lifecycle, segmentation and list-hygiene systems on Brevo — not just campaigns.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700;800&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#faf8f2; --bg-alt:#efece4; --ink:#1f2420; --muted:#5b6058;
+    --sage:#3f6a4c; --sage-dark:#2f5139; --gold:#c08a2e; --navy:#1b2430;
+    --border:#e3ddd0; --card:#ffffff;
+    --maxw:880px;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font-family:'Lora',Georgia,serif;line-height:1.65;font-size:17px}
+  h1,h2,h3,.disp{font-family:'Poppins',Arial,sans-serif;font-weight:700;letter-spacing:-0.01em;color:var(--ink)}
+  a{color:var(--sage-dark)}
+  .wrap{max-width:var(--maxw);margin:0 auto;padding:0 24px}
+  .wide{max-width:1100px;margin:0 auto;padding:0 24px}
+  section{padding:64px 0}
+  @media (max-width:640px){section{padding:40px 0}}
+
+  /* Hero */
+  header.hero{padding:56px 0 32px}
+  .hero-grid{display:flex;gap:32px;align-items:center;flex-wrap:wrap}
+  .hero-photo{width:120px;height:120px;border-radius:50%;object-fit:cover;border:3px solid var(--sage);flex:none}
+  .hero-text h1{font-size:2.4rem;margin:0 0 6px}
+  .role-line{color:var(--muted);font-size:1.05rem;margin-bottom:14px}
+  .hero-text p{max-width:620px}
+  .highlight{color:var(--sage-dark);font-weight:600}
+  .relevance{background:var(--bg-alt);border-left:4px solid var(--gold);padding:14px 18px;border-radius:4px;margin-top:18px;max-width:620px;font-size:0.97rem}
+  .cta-row{display:flex;gap:14px;margin-top:24px;flex-wrap:wrap}
+  .btn{display:inline-block;font-family:'Poppins',sans-serif;font-weight:600;font-size:0.95rem;padding:13px 24px;border-radius:6px;text-decoration:none;cursor:pointer;border:2px solid transparent}
+  .btn-primary{background:var(--sage-dark);color:#fff}
+  .btn-primary:hover{background:var(--sage)}
+  .btn-secondary{background:transparent;border-color:var(--sage-dark);color:var(--sage-dark)}
+  .btn-secondary:hover{background:var(--sage-dark);color:#fff}
+
+  nav{border-top:1px solid var(--border);border-bottom:1px solid var(--border);margin-top:36px}
+  nav ul{display:flex;gap:28px;list-style:none;margin:0;padding:14px 0;overflow-x:auto}
+  nav a{color:var(--muted);text-decoration:none;font-family:'Poppins',sans-serif;font-size:0.92rem;white-space:nowrap}
+  nav a:hover{color:var(--sage-dark)}
+
+  /* Case studies (moved up, lead with proof) */
+  .section-label{font-family:'Poppins',sans-serif;font-size:0.8rem;text-transform:uppercase;letter-spacing:0.08em;color:var(--gold);font-weight:700;margin-bottom:6px}
+  .case{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:28px 30px;margin-bottom:22px}
+  .case h3{margin:2px 0 14px;font-size:1.3rem}
+  .case h4{font-family:'Poppins',sans-serif;font-size:0.78rem;text-transform:uppercase;letter-spacing:0.06em;color:var(--muted);margin:16px 0 4px}
+  .case p{margin:0 0 4px}
+  .result{background:var(--bg-alt);border-left:3px solid var(--gold);padding:12px 16px;border-radius:4px;margin-top:14px}
+
+  /* What I built */
+  .built{background:var(--bg-alt)}
+  .card-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-top:28px}
+  @media (max-width:640px){.card-grid{grid-template-columns:1fr}}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:20px 22px}
+  .card .tag{font-family:'Poppins',sans-serif;font-size:0.72rem;text-transform:uppercase;letter-spacing:0.06em;color:var(--sage-dark);font-weight:700}
+  .card h4{margin:4px 0 8px;font-size:1.05rem}
+  .card p{margin:0;font-size:0.95rem;color:var(--muted)}
+
+  /* Diagram */
+  .diagram-wrap{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:28px;margin-top:28px}
+  .diagram-wrap h4{font-family:'Poppins',sans-serif;margin:0 0 4px}
+  .diagram-wrap .cap{color:var(--muted);font-size:0.9rem;margin-bottom:18px}
+  svg{width:100%;height:auto;display:block}
+
+  /* Numbers */
+  .numbers{background:var(--navy);color:#fff}
+  .numbers .section-label{color:var(--gold)}
+  .stat-row{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;margin:28px 0 36px}
+  .stat-row.second{grid-template-columns:repeat(3,1fr)}
+  @media (max-width:640px){.stat-row,.stat-row.second{grid-template-columns:1fr 1fr}}
+  .stat-num{font-family:'Poppins',sans-serif;font-weight:800;font-size:2.1rem;color:var(--gold)}
+  .stat-label{color:#cfd6ce;font-size:0.9rem}
+
+  /* Skills */
+  .skills-group{margin-bottom:22px}
+  .skills-group h4{font-family:'Poppins',sans-serif;font-size:0.85rem;text-transform:uppercase;letter-spacing:0.05em;color:var(--muted);margin-bottom:10px}
+  .pill-row{display:flex;flex-wrap:wrap;gap:8px}
+  .pill{border:1px solid var(--border);background:var(--card);padding:8px 14px;border-radius:20px;font-size:0.88rem;font-family:'Poppins',sans-serif}
+  .pill.primary{border-color:var(--sage-dark);color:var(--sage-dark);font-weight:600}
+
+  /* Philosophy (moved down) */
+  .philosophy blockquote{border-left:3px solid var(--sage);margin:20px 0;padding:10px 20px;font-style:italic;color:var(--muted)}
+  .philosophy blockquote cite{display:block;font-style:normal;margin-top:6px;font-size:0.85rem}
+  .microwave-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin:22px 0}
+  @media (max-width:640px){.microwave-grid{grid-template-columns:1fr}}
+  .mw-card{background:var(--bg-alt);border-radius:8px;padding:18px 20px}
+  .mw-card h4{margin:6px 0 8px}
+
+  /* Contact */
+  .contact{text-align:left}
+  .contact h2{font-size:2rem}
+  .contact-links{margin-top:20px;display:flex;flex-wrap:wrap;gap:18px;font-family:'Poppins',sans-serif;font-size:0.92rem}
+  footer{padding:30px 0;text-align:center;color:var(--muted);font-size:0.85rem;border-top:1px solid var(--border)}
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="wrap">
+    <div class="hero-grid">
+      <img class="hero-photo" src="assets/headshot.png" alt="Kaeto Oruche" onerror="this.style.display='none'">
+      <div class="hero-text">
+        <h1>Kaeto Oruche</h1>
+        <div class="role-line">Email Marketing Specialist · Lifecycle & CRM Systems · Brevo</div>
+        <p>I build email marketing systems that qualify leads through <span class="highlight">behaviour, not guesswork</span> — lifecycle architecture, engagement scoring and list hygiene, not just campaigns and sends.</p>
+      </div>
+    </div>
+    <div class="relevance">
+      <strong>Who this is for:</strong> regulated and trust-sensitive businesses — financial services, healthcare, wellness. Before email marketing I spent about two and a half years in community pharmacy and hold an MPharm degree — reading complex, regulated information accurately and turning it into something a patient could act on. Same discipline, applied to lifecycle systems now.
+    </div>
+    <div class="cta-row">
+      <a class="btn btn-primary" href="mailto:kaetooruche@gmail.com?subject=Let%27s%20talk%20about%20your%20email%20system" id="start-convo">Start a conversation</a>
+      <a class="btn btn-secondary" href="assets/Kaeto-Oruche-CV.pdf" download>Download CV</a>
+    </div>
+  </div>
+  <nav>
+    <div class="wrap">
+      <ul>
+        <li><a href="#work">Selected Work</a></li>
+        <li><a href="#built">What I Built</a></li>
+        <li><a href="#numbers">Numbers</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#philosophy">Philosophy</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+</header>
+
+<section id="work">
+  <div class="wrap">
+    <div class="section-label">Selected Work</div>
+    <h2>What I've actually built</h2>
+
+    <div class="case">
+      <div class="section-label" style="margin-top:4px">Case Study</div>
+      <h3>The 216-Campaign Forensic Audit</h3>
+      <h4>Context</h4>
+      <p>A financial advisory company serving a German-market audience, running weekly email campaigns across banking and property verticals, with no systematic framework for content selection.</p>
+      <h4>Problem</h4>
+      <p>Content was inconsistent, angles repeated without anyone tracking it, and there was no way to know which topics actually moved engagement.</p>
+      <h4>Approach</h4>
+      <p>Audited all 216 past campaigns, tagging each by topic, angle, vertical and engagement result. Built a three-tier content framework and a set of content angles from the findings, plus a library of 20 reusable email frameworks with rotation rules.</p>
+      <div class="result"><strong>Result:</strong> A content operating system derived from data, not instinct — a structured rotation where every send has a purpose instead of starting from a blank page each week.</div>
+    </div>
+
+    <div class="case">
+      <div class="section-label" style="margin-top:4px">Case Study</div>
+      <h3>The Webinar Email Engine</h3>
+      <h4>Context</h4>
+      <p>The company runs a weekly webinar for its German-market audience as its primary conversion event, with three distinct populations — never registered, registered but never attended, and past attendees.</p>
+      <h4>Problem</h4>
+      <p>Early campaigns treated the database uniformly. Engagement in the past-attendee segment decayed badly over several months of uniform, repeated sends.</p>
+      <h4>Approach</h4>
+      <p>Designed a three-tier invite system with different cadence and copy treatment per tier, produced weekly, with a locked, stress-tested post-webinar template and mandatory formula rotation so no contact sees the same approach twice in a row.</p>
+      <div class="result"><strong>Result:</strong> A webinar invite system that treats segments as distinct populations, with formula rotation built in to prevent fatigue.</div>
+    </div>
+
+    <div class="case">
+      <div class="section-label" style="margin-top:4px">Case Study</div>
+      <h3>The Scandinavian Re-Engagement Sequence</h3>
+      <h4>Context</h4>
+      <p>Sales was preparing to cold-call 481 Scandinavian leads who had gone quiet. Cold outreach to fully disengaged contacts has a predictable failure rate.</p>
+      <h4>Approach</h4>
+      <p>Designed a three-email sequence over ten days, segmented by engagement tier, each email doing a distinct job: re-establish context, provide value, create a reason to respond before the call.</p>
+      <div class="result"><strong>Result:</strong> A reusable re-engagement framework bridging marketing and sales — instead of a cold list of names, sales received contacts who'd recently had relevant contact.</div>
+    </div>
+  </div>
+</section>
+
+<section id="built" class="built">
+  <div class="wide">
+    <div class="section-label">What I Built</div>
+    <h2>Sole owner of the email marketing function for a German-market financial advisory company, since January 2026 — built from scratch on Brevo.</h2>
+
+    <div class="card-grid">
+      <div class="card"><div class="tag">Architecture</div><h4>Lifecycle State Model</h4><p>A mutually exclusive state system where every contact sits in exactly one current state, while sticky history flags track everything they've ever done. A resolver computes state automatically from precedence logic.</p></div>
+      <div class="card"><div class="tag">Qualification</div><h4>Lead Scoring, Rebuilt</h4><p>Rebuilt lead scoring from a 40-point to a 20-point scale using 200+ historical campaigns as the evidence base, with a dual-gate qualification rule rather than a single threshold.</p></div>
+      <div class="card"><div class="tag">Engagement</div><h4>Five-Tier Engagement Ladder</h4><p>Five tiers driven by click recency, not opens — Apple Mail Privacy Protection makes open data unreliable, so I designed the model around the signal that's still trustworthy.</p></div>
+      <div class="card"><div class="tag">Attribution</div><h4>UTM Infrastructure</h4><p>A tracking structure covering 750+ tagged URLs across 5 platforms, with standardised naming so every click attributes to its original source, medium and campaign.</p></div>
+      <div class="card"><div class="tag">Hygiene</div><h4>List Hygiene Pipeline</h4><p>MX pre-filtering on inbound leads across a database of roughly 85,000 contacts, with orphaned-record isolation (1,564 records found and remediated) and engagement-based suppression.</p></div>
+      <div class="card"><div class="tag">Deliverability</div><h4>Authentication Audit</h4><p>Diagnosed a deliverability problem at the source: missing DKIM record, SPF missing the sending platform's include, and a poorly-reputed shared IP — the kind of root-cause audit I'd run for any client with silent inbox-placement problems.</p></div>
+    </div>
+
+    <div class="diagram-wrap">
+      <h4>How a contact moves through the system</h4>
+      <div class="cap">An original illustration of the lifecycle/engagement model described above — not a screenshot of any employer's live data.</div>
+      <svg viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram showing a contact entering the funnel, generating behaviour, being scored by an engagement ladder, and routed into either an accelerated or nurture track">
+        <defs>
+          <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#5b6058"/></marker>
+        </defs>
+        <style>
+          .box{fill:#ffffff;stroke:#3f6a4c;stroke-width:1.5;rx:8}
+          .lbl{font-family:'Poppins',Arial,sans-serif;font-size:13px;font-weight:600;fill:#1f2420}
+          .sub{font-family:Arial,sans-serif;font-size:10.5px;fill:#5b6058}
+          .line{stroke:#5b6058;stroke-width:1.5;marker-end:url(#arrow);fill:none}
+          .tier{fill:#c08a2e;}
+          .tierlbl{font-family:'Poppins',Arial,sans-serif;font-size:10px;fill:#1f2420}
+        </style>
+        <rect class="box" x="20" y="110" width="140" height="60"/>
+        <text class="lbl" x="90" y="135" text-anchor="middle">Contact enters</text>
+        <text class="sub" x="90" y="152" text-anchor="middle">opt-in / lead source</text>
+
+        <path class="line" d="M160,140 H215"/>
+
+        <rect class="box" x="220" y="110" width="150" height="60"/>
+        <text class="lbl" x="295" y="135" text-anchor="middle">Behaviour</text>
+        <text class="sub" x="295" y="152" text-anchor="middle">clicks, not opens</text>
+
+        <path class="line" d="M370,140 H425"/>
+
+        <rect class="box" x="430" y="60" width="170" height="52"/>
+        <text class="lbl" x="515" y="82" text-anchor="middle" font-size="12">Engagement ladder</text>
+        <text class="sub" x="515" y="98" text-anchor="middle">5 tiers · click recency</text>
+
+        <path class="line" d="M430,86 L425,86 Q410,86 410,110 L410,140 H425" transform="translate(0,0)"/>
+        <path class="line" d="M370,140 Q400,110 430,86"/>
+
+        <circle class="tier" cx="455" cy="150" r="4"/><text class="tierlbl" x="465" y="154">T5 high</text>
+        <circle class="tier" cx="455" cy="168" r="4" opacity="0.75"/><text class="tierlbl" x="465" y="172">T4</text>
+        <circle class="tier" cx="455" cy="186" r="4" opacity="0.55"/><text class="tierlbl" x="465" y="190">T3</text>
+        <circle class="tier" cx="455" cy="204" r="4" opacity="0.4"/><text class="tierlbl" x="465" y="208">T2</text>
+        <circle class="tier" cx="455" cy="222" r="4" opacity="0.25"/><text class="tierlbl" x="465" y="226">T1 low</text>
+
+        <path class="line" d="M600,75 H650 Q670,75 670,95 V110"/>
+        <rect class="box" x="610" y="20" width="180" height="55"/>
+        <text class="lbl" x="700" y="42" text-anchor="middle" font-size="12">Microwave track</text>
+        <text class="sub" x="700" y="58" text-anchor="middle">high intent · accelerated</text>
+
+        <path class="line" d="M600,95 H650 Q670,95 670,115 V140"/>
+        <rect class="box" x="610" y="140" width="180" height="55"/>
+        <text class="lbl" x="700" y="162" text-anchor="middle" font-size="12">Oven track</text>
+        <text class="sub" x="700" y="178" text-anchor="middle">building awareness · nurtured</text>
+
+        <text class="lbl" x="450" y="275" text-anchor="middle" font-size="11" fill="#5b6058">Score and tier update on every new behaviour — the cycle repeats, not linear.</text>
+      </svg>
+    </div>
+  </div>
+</section>
+
+<section id="numbers" class="numbers">
+  <div class="wrap">
+    <div class="section-label">By the Numbers</div>
+    <div class="stat-row">
+      <div><div class="stat-num">~230</div><div class="stat-label">Campaigns managed (Jan–Aug 2026)</div></div>
+      <div><div class="stat-num">91,000+</div><div class="stat-label">Emails delivered</div></div>
+      <div><div class="stat-num">&lt;0.02%</div><div class="stat-label">Spam complaint rate</div></div>
+    </div>
+    <div class="stat-row second">
+      <div><div class="stat-num">~85K</div><div class="stat-label">Contact database managed</div></div>
+      <div><div class="stat-num">41 / 11</div><div class="stat-label">Contact lists / lead magnet sequences</div></div>
+      <div><div class="stat-num">750+</div><div class="stat-label">UTM-tagged URLs</div></div>
+    </div>
+    <p style="color:#cfd6ce;font-size:0.9rem;max-width:620px">Unsubscribe rate fell from about 0.6% in January 2026 to about 0.2% by summer, while monthly send volume more than doubled over the same period.</p>
+  </div>
+</section>
+
+<section id="skills">
+  <div class="wrap">
+    <div class="section-label">Skills & Tools</div>
+    <h2>Skills & Tools</h2>
+
+    <div class="skills-group">
+      <h4>Strategy</h4>
+      <div class="pill-row">
+        <span class="pill">Email Marketing Strategy</span><span class="pill">Lifecycle Architecture</span>
+        <span class="pill">Lead Scoring & Qualification</span><span class="pill">Audience Segmentation</span>
+        <span class="pill">Campaign Planning</span><span class="pill">A/B Testing</span>
+        <span class="pill">Re-engagement Strategy</span>
+      </div>
+    </div>
+    <div class="skills-group">
+      <h4>Execution</h4>
+      <div class="pill-row">
+        <span class="pill">Email Copywriting</span><span class="pill">HTML Email Development</span>
+        <span class="pill">Marketing Automation</span><span class="pill">Drip & Nurture Sequences</span>
+        <span class="pill">List Management & Hygiene</span><span class="pill">Deliverability Management</span>
+        <span class="pill">UTM Tracking & Attribution</span>
+      </div>
+    </div>
+    <div class="skills-group">
+      <h4>Analytics</h4>
+      <div class="pill-row">
+        <span class="pill">Campaign Performance Analysis</span><span class="pill">Engagement Tracking</span>
+        <span class="pill">Behavioural Triggers</span><span class="pill">Subject Line & CTA Testing</span>
+        <span class="pill">Metric Interpretation</span>
+      </div>
+    </div>
+    <div class="skills-group">
+      <h4>Primary Platform</h4>
+      <div class="pill-row"><span class="pill primary">Brevo (Sendinblue)</span></div>
+    </div>
+  </div>
+</section>
+
+<section id="philosophy" class="philosophy">
+  <div class="wrap">
+    <div class="section-label">Philosophy</div>
+    <h2>Sending Emails Is Not Email Marketing</h2>
+    <p>I used to think email marketing was relatively straightforward. Write an email. Send it to a list. Look at the open rate. Send another one next week. The longer I worked with email, the more I realised that was not email marketing. It was just sending emails.</p>
+    <p>Email is one of the few channels where a person gives you ongoing permission to communicate with them directly — until they decide what you're sending is no longer worth receiving. That distinction changed everything for me.</p>
+    <blockquote>Permission marketing is the privilege — not the right — of delivering anticipated, personal and relevant messages to people who actually want to get them.<cite>Seth Godin</cite></blockquote>
+    <p>Once you treat someone's inbox as a privilege rather than a channel, the approach changes. You stop asking "what should I send this week?" and start asking "what has this person told me they care about?" Every open, click, ignore, download or registration is information — and once you treat it as information rather than just a metric, email becomes a qualification system, not a broadcast tool.</p>
+
+    <h3>The Microwave and the Oven</h3>
+    <div class="microwave-grid">
+      <div class="mw-card"><h4>⚡ The Microwave</h4><p>High-intent leads who've demonstrated enough engagement that generic educational content makes little sense. Shorter path, more direct communication, accelerated toward conversion.</p></div>
+      <div class="mw-card"><h4>🔥 The Oven</h4><p>Contacts who need weeks or months of education before they have enough trust or urgency. You don't keep opening the door every five minutes asking why they're not ready — you let the process work.</p></div>
+    </div>
+    <p>A person enters. Their behaviour creates information. That information changes what they receive next, changes their score, changes their lifecycle stage, changes the communication — which generates another behaviour. The cycle continues, not linearly, but as a system that responds to the person inside it. That's what I build.</p>
+  </div>
+</section>
+
+<section id="contact" class="contact">
+  <div class="wrap">
+    <div class="section-label">Contact</div>
+    <h2>Let's talk about your email system.</h2>
+    <p>Whether you need someone to build your email infrastructure from scratch, fix a system that's underperforming, or design lifecycle architecture that actually qualifies leads — I'd like to hear what you're working with.</p>
+    <div class="cta-row">
+      <a class="btn btn-primary" href="mailto:kaetooruche@gmail.com?subject=Let%27s%20talk%20about%20your%20email%20system">Start a conversation</a>
+    </div>
+    <div class="contact-links">
+      <a href="mailto:kaetooruche@gmail.com">kaetooruche@gmail.com</a>
+      <a href="https://www.linkedin.com/in/kaeto-oruche" target="_blank" rel="noopener">LinkedIn</a>
+      <a href="assets/Kaeto-Oruche-CV.pdf" download>Download CV</a>
+    </div>
+  </div>
+</section>
+
+<footer>Kaeto Oruche · 2026</footer>
+
+</body>
+</html>
