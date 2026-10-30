@@ -28,7 +28,7 @@ No claim below has been checked against a Brevo dashboard export, employer refer
 | Location per master prompt §6.2 | "currently based in Türkiye" | Master prompt text | **CONFLICT — see below** |
 | Portfolio | kaeto-oruche-email-marketing.netlify.app | DOC-1, DOC-2, DOC-3, user message | PARTIALLY VERIFIED |
 
-**CONFLICT-1 (location):** All three of your own source documents independently state Kyrenia, Northern Cyprus. The master prompt's payment-routing section asserts Türkiye. These are different jurisdictions for banking, tax, and payment-rail eligibility (TRNC is not internationally recognized as a sovereign state outside Turkey, which materially affects which payment rails — Wise, Payoneer, direct bank transfer, PayPal — will actually work). I have defaulted to what your documents say (Northern Cyprus) rather than the master prompt's unsourced claim. **This needs your direct confirmation before any payment-routing decision is finalized** — I cannot resolve it from the documents you gave me.
+**CONFLICT-1 (location) — RESOLVED 2026-10-30, confirmed by owner: Northern Cyprus (TRNC).** All three source documents agreed on this already; the master prompt's "Türkiye" reference was not used. Payment-rail research proceeds on this basis — see `evidence/payment-routing.md`.
 
 ## 2. Education
 
