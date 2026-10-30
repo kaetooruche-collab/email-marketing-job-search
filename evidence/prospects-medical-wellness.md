@@ -142,4 +142,45 @@ Same method as batch 1. Yield note worth recording: of roughly 8 candidate sites
 
 ## Next steps (batch 2)
 1. Ciera and Susan Robinson both sent (2026-10-30) — watch for replies.
-2. Continue toward the 50-100 target in batch 3.
+
+---
+
+# Batch 3 (2026-10-30)
+
+Lower yield this round: checked 6 new candidates across doula/sleep-consulting, dietitian, counseling, and pelvic floor PT niches, and only 1 cleared the bar. Logging the near-misses in detail since a couple were close calls worth understanding, not just rejections.
+
+## Strong candidates
+
+### 6. Angela Fishman, PT — My Pelvic Therapy (virtual, licensed in IL/CA/CO/FL/NH)
+- **Site:** mypelvictherapy.com
+- **What she does:** Licensed physical therapist, pelvic floor specialist, 20+ years experience. Spent 17 years as a senior PT at Advocate Lutheran General Hospital (Park Ridge, IL) before going fully virtual and solo. PT degree from Duke University. Also runs a separate course product ("My Pelvic Therapy Academy") at a courses subdomain.
+- **Observed gap:** Genuinely well-featured in press — Bustle, Glamour, Insider, Medium (Authority Magazine), Giddy, Sofia & Grace — but checked both the homepage and /about page and found no email opt-in or newsletter anywhere for the main 1:1 therapy practice. One honest caveat: her separate course-sales subdomain has its own generic "email marketing" clause in its privacy policy (standard course-platform boilerplate for buyers), so she isn't a total stranger to email as a concept — but that's a backend transactional flow for course purchasers, not a top-of-funnel system turning her press coverage into a list, which is the actual gap.
+- **Decision-maker:** Angela Fishman — "Angela is the owner of My Pelvic Therapy, PLLC."
+- **Contact channel confirmed:** angela@mypelvictherapy.com — found directly on her /media (press kit) page: "Contact Angela directly at: angela@mypelvictherapy.com."
+- **Confidence:** VERIFIED — gap and contact both directly observed.
+
+**Draft message (price variant: with $175):**
+> Hi Angela — 17 years at Advocate Lutheran General before going fully virtual is a real foundation, not just a credential list.
+>
+> One thing I noticed: you've been featured in Bustle, Glamour, Insider, and a few others, but there's no way for someone who finds you through any of that press to stay in touch unless they book a consultation right away.
+>
+> I'd set up a short, 2-3 email sequence for people who find you through press or search but aren't ready to book yet, so you stay top of mind instead of just being one more article they read.
+>
+> Nothing touching client health records — just the marketing side.
+>
+> I'm an MPharm graduate who moved into building email marketing systems for health and wellness practices.
+>
+> Flat fee: $175 for the full sequence, no retainer. No worries if it's not useful right now.
+>
+> Kaeto
+
+## Checked, did not qualify (logged so batch 4 doesn't re-check these)
+
+- **Sleep Child O Mine** (Abby Morris, Tampa FL) — a close call: Abby is the founder, but the site explicitly describes itself as "a collective of expert perinatal professionals" and names a second sleep coach (Liz) working alongside her for 2 years — fails the solo/fast-decision criterion the same way Vallee Health Repair did. Interesting side-finding: her newsletter signup form has the exact same unconfigured-Squarespace-form bug as Martina's contact form ("This newsletter signup form needs a storage option") — a second instance of this specific bug, worth watching for as a pattern in future batches since it's apparently a common free/entry-tier Squarespace misconfiguration.
+- **Stephanie Dorfman Nutrition** (Astoria, NY, weight-inclusive dietitian) — already has a working opt-in (embedded Kit/ConvertKit form, confirmed "You have Successfully Subscribed!" message). No gap.
+- **Wholesome Chick Nutrition** — described in its own podcast appearances as a "virtual group private practice" — the word "group" signals a multi-dietitian operation; didn't pursue further.
+- **Reclaiming Her Counseling** (Clarissa Stolte, LPC, Austin TX) — confirmed solo via her own Instagram bio ("a solo private practice"), but her website (desertrootscounseling.com, found via a cached FAQ page) is a dead/expired Squarespace account. Her actual current site wasn't found this pass — worth a second look in batch 4 via her Instagram bio link directly rather than search.
+
+## Next steps (batch 3)
+1. Angela drafted, not yet sent — awaiting review/approval.
+2. Continue toward the 50-100 target in batch 4; worth trying different search angles than "solo [niche] website" phrasing, which is increasingly surfacing marketing-advice content and course-sellers rather than real practice sites.
