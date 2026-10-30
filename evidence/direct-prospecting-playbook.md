@@ -82,6 +82,12 @@ Google-style phrase search ("solo [niche] website book a free call") increasingl
 3. **Instagram bio-link browsing** — searching niche + "solo" directly on Instagram (not Google) surfaced Reclaiming Her Counseling; the bio often states solo/group status explicitly and links to the live current site, avoiding the expired-domain problem hit this batch.
 4. **Local business directory listings (not aggregator SEO content)** — e.g. a city's own small-business spotlight features, chamber of commerce member listings.
 
+### Refinement after batch 4, round 1 (2026-10-30): press-mention search has a real tension
+
+Batch 4's first round checked 4 press-featured practitioners found via the method in point 2 above — all 4 had press coverage (Sacramento Magazine, Forbes Health, U.S. News, MindBodyGreen, etc.) and all 4 already had an active email opt-in or list tool (Flodesk, a "subscribe" CTA, etc.). Zero qualified. The pattern: strong, multi-outlet press coverage correlates with marketing sophistication generally — the ambition and resources that earn someone a Forbes Health feature usually also got them a newsletter. Press-mention search still finds genuinely well-researched specific detail for a good opener, but it's biased toward people who already have the thing being pitched. Don't treat a press hit alone as a qualifying signal — it narrows the "interesting person" search, not the "has a gap" search. Still check for the gap independently before investing in a draft.
+
+Also newly confirmed as a real disqualifying pattern: **lactation consultants and IBCLCs skew toward already having an opt-in or course-funnel** (3 of 3 checked so far — Annie Frisbie, Katie James, Stephanie Wong — either had multi-person practices or active email tools). Downgrading this sub-niche's priority for future batches unless a specific candidate shows no opt-in on direct inspection.
+
 ### Per-niche checklist before spending a scrape on a candidate
 
 1. Does the "About" or bio explicitly say solo/founder, or name 2+ practitioners/staff? (biggest single disqualifier)

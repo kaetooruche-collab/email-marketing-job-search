@@ -186,3 +186,22 @@ Lower yield this round: checked 6 new candidates across doula/sleep-consulting, 
 ## Next steps (batch 3)
 1. Angela sent (2026-10-30) — watch for replies.
 2. Continue toward the 50-100 target in batch 4 using the systematic search framework now in `direct-prospecting-playbook.md`.
+
+---
+
+# Batch 4 (2026-10-30)
+
+## Round 1: 0 qualified — logged because the pattern itself is useful
+
+Used the new press-mention discovery method from the updated playbook. All 4 candidates had real press coverage, but all 4 also already had an active email capture system — see the "refinement" note added to `direct-prospecting-playbook.md` explaining why press coverage and marketing sophistication tend to travel together.
+
+## Checked, did not qualify
+
+- **Katie James** (Registered Midwife + IBCLC, Lucerne, Switzerland) — solo, but her site has an active "Keep up-to-date with all my news and offerings by subscribing — Sign me up!" opt-in.
+- **Stephanie Wong, Lovely Littles Therapy** (Houston, NICU-trained OT + IBCLC) — confirmed solo, genuinely strong personal story, but runs "Lattes & Littles," a postpartum community with an active Flodesk email list ("monthly email updates") plus a "sign up for news and updates" checkbox built into her own contact/intake form. One of the most thoroughly-already-covered prospects checked so far.
+- **Lee-Ann Lacasse, Bodyworks Massage & Wellness** — her own podcast interview title: "Lessons From Growing A Bodywork Business To 10+ People." Team, not solo.
+- **Dr. Ray / Revée Barbour, ND MS** (A Dose of Vitamin Ray) — excellent press (Sacramento Magazine, Forbes Health, U.S. News & World Report, MindBodyGreen), but has a "Subscribe & Get My Best Tips to Instantly Boost Energy & Focus" opt-in on her homepage.
+
+## Next steps (batch 4)
+1. Round 1 found nothing to send — this happens, logged honestly rather than padding the batch.
+2. Try round 2 with a different sub-niche or discovery channel per the downgraded lactation-consultant priority and the press-coverage caveat now in the playbook.
