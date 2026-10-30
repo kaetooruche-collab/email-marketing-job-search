@@ -41,9 +41,6 @@ Research note for future batches: checked actual cold-email conversion data mid-
 >
 > I went through your page and noticed your contact form might not be working right now, and there's no way for someone to stay in touch if they're not ready to book the moment they land on your page. I build simple email follow-ups for health practices for exactly this — happy to share what I'd suggest if that's ever useful, no pressure either way!
 
-**Draft opening message (channel TBD):**
-> Hi Martina — I was reading through your articles on metabolic health and noticed your blog hasn't been updated since 2023, and there's no way for a reader to opt in for more. That's a lot of good content with no system behind it to bring people back or build a list from it. I could set up a simple email capture + a short welcome sequence using what you've already written, so new readers become an actual list instead of a one-time visit. Flat fee, small scope — let me know if that's useful and I'll send details.
-
 ---
 
 ### 3. Susan Spear — Nutritious Insight, LLC (Phoenix, AZ area — 602 area code) — SENT 2026-10-30
@@ -79,7 +76,7 @@ Same method as batch 1. Yield note worth recording: of roughly 8 candidate sites
 
 ## Strong candidates
 
-### 4. Ciera Sunshine — Bridal Health Coach (Oak Harbor / Seattle, WA area, USA)
+### 4. Ciera Sunshine — Bridal Health Coach (Oak Harbor / Seattle, WA area, USA) — SENT 2026-10-30
 - **Site:** bridalhealthcoach.com
 - **What she does:** Certified Holistic Health Coach & Fitness Instructor (MS, Health & Human Performance), niche: bridal fitness, nutrition, stress management, mindfulness for brides-to-be. Solo — "Meet Your Coach: Ciera Sunshine (she/her)," no other coaches mentioned anywhere on site.
 - **Observed gap:** No email opt-in or newsletter anywhere on the site, despite a content-rich personal story and multiple client testimonials. Her own FAQ states brides typically start 6-12 months before their wedding — a long consideration window with no mechanism to stay in touch with someone who isn't ready to book the day they land on the site.
@@ -87,7 +84,7 @@ Same method as batch 1. Yield note worth recording: of roughly 8 candidate sites
 - **Contact channel confirmed:** bridalhealthcoach@gmail.com — found consistently across multiple pages (/contact, service pages), not guessed.
 - **Confidence:** VERIFIED — gap and contact both directly observed.
 
-**Draft message (price variant: with $175):**
+**Final message sent (price variant: with $175):**
 > Hi Ciera — I read through your site, and the fact that you built this from your own experience with anxiety and body image, not just a certification, is what makes the bridal angle feel real rather than generic.
 >
 > One thing I noticed: most brides find a bridal health coach 6-12 months out from their wedding, by your own numbers, but there's no way for someone who's not ready to book today to stay in touch until they are — no newsletter, no follow-up.
@@ -104,26 +101,31 @@ Same method as batch 1. Yield note worth recording: of roughly 8 candidate sites
 
 ---
 
-### 5. Susan Robinson — Susan The Birth Doula (Augusta, GA, USA)
+### 5. Susan Robinson — Susan The Birth Doula (Augusta, GA, USA) — SENT 2026-10-30
 - **Site:** susanthebirthdoula.com
 - **What she does:** Certified Birth Doula (NBDA) and Placenta Encapsulation Specialist; founder. Runs an "Every Woman Deserves A Doula" program offering free/discounted services to low-income families. Featured in local press: CanvasRebel, Voyage ATL, ShoutOut Atlanta.
 - **Decision-maker:** Susan Robinson, "Founder of Susan The Birth Doula" — site uses "we" throughout as a brand-voice choice, but no other doula names appear anywhere; confirmed solo via her /meet-susan page.
 - **Observed gap:** Press features and client-facing content exist, but no email opt-in or newsletter anywhere on the site — only a booking/contact form. One unrelated site-quality note (not used in the message): the nav's /contact/ link is dead (404); the real page is /contact-us/.
 - **Contact channel confirmed:** susanthebirthdoula@gmail.com — listed directly on the (correct) contact page.
 - **Confidence:** VERIFIED — gap and contact both directly observed.
+- **Revision note:** the original draft opened with "I came across your features in CanvasRebel, Voyage ATL and ShoutOut Atlanta" — flagged (correctly, by Kaeto) as implausible for a male sender with no stated reason to have been reading press profiles of a birth doula. Rewritten by Kaeto to simply state what was noticed on her site, without claiming a specific discovery story. Sent version below.
 
-**Draft message (price variant: no price, soft ask):**
-> Hi Susan — I came across your features in CanvasRebel, Voyage ATL and ShoutOut Atlanta, and the "Every Woman Deserves A Doula" program stood out as something a lot of doula sites don't offer.
+**Final message sent (price variant: no price, soft ask):**
+> Hi Susan,
 >
-> One thing I noticed: between those press features and your client testimonials, you've built real proof that people trust your work, but there's no way for someone who finds you through any of that to stay connected unless they're ready to book a consultation immediately.
+> I came across your website and noticed your Every Woman Deserves A Doula initiative, alongside the testimonials from families you've supported.
 >
-> I'd put together a short, 2-3 email sequence for expecting mothers who find you early in their pregnancy but aren't ready to book yet, so you stay top of mind as their due date gets closer.
+> I had an idea for something that could complement what you're already doing.
 >
-> Nothing touching client health records — just the marketing side.
+> Not every woman who discovers your practice will be ready to arrange a consultation immediately. Some may still be exploring their options, learning about doula support or deciding whether it's right for them.
 >
-> I'm an MPharm graduate who moved into building email marketing systems for health and wellness practices.
+> An email sign-up and a short follow-up sequence could give those women a way to stay connected with you, learn more about your services and consider reaching out when they're ready.
 >
-> Happy to send over a sample of the first email. No worries if it's not useful right now.
+> I'm an MPharm graduate who now builds email marketing systems for health and wellness businesses.
+>
+> I'd be happy to put together a sample of what this could look like for your practice.
+>
+> Would you be interested in seeing it?
 >
 > Kaeto
 
@@ -139,6 +141,5 @@ Same method as batch 1. Yield note worth recording: of roughly 8 candidate sites
 - **Skin By Leah (Leah Rae Yawn)** — solo-founded but has grown into a bigger personal brand (product line "JUSTMIX Beauty," new location opening, "celebrity esthetician" positioning) with an active Shopify "Subscribe To Our Emails" capture already live. No gap, and a scale mismatch with the target profile besides.
 
 ## Next steps (batch 2)
-1. Ciera and Susan Robinson drafted, not yet sent — awaiting review/approval.
-2. Martina's email still needs Hunter.io or another channel before anything is sent to her.
-3. Continue toward the 50-100 target in batch 3.
+1. Ciera and Susan Robinson both sent (2026-10-30) — watch for replies.
+2. Continue toward the 50-100 target in batch 3.
