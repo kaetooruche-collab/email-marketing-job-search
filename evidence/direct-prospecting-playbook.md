@@ -29,9 +29,11 @@ Per master prompt §12.1, services Kaeto can credibly deliver today based on ver
 - Financial/professional advisory services (direct match to HIBARR's own vertical — he knows this buyer's objections and content angles already)
 - Local service businesses with a customer list but no follow-up system (matches the Reddit-crowd consensus above, lowest-friction first project)
 
-## Open question — needs Kaeto's answer before this can run for real
+## Decisions made (2026-10-30)
 
-1. Any family/friend/HIBARR-adjacent warm introduction to a small business owner?
-2. If no warm lead: which niche above (or another) should the first cold-prospecting pass target?
+- **LinkedIn/free-trial tactic — resolved:** no free work. Any paid-pilot offer (LinkedIn or otherwise) uses a small, clearly-scoped fixed fee (e.g. one welcome sequence, one deliverability audit) instead of a free 30-day build. Keeps every channel inside the P0/P1 rules.
+- **Niche — resolved: medical, healthcare & wellness.** This is a stronger choice than the four I proposed, because it's the one niche where Kaeto has *independently verified, non-email-marketing credibility*: an MPharm degree and 18 months of community pharmacy experience (controlled substances, medication therapy reviews, patient counselling — see claims-register.md). That's a real trust signal most competing email freelancers in this niche won't have: "pharmacist background + email systems builder" is a specific, credible combination for health/wellness buyers, not a generic positioning claim.
+- Target business profile within the niche: small/independent operators who can decide fast — clinics, wellness/supplement e-commerce brands, health coaches, med spas, dental/chiro practices — not hospital systems or large pharma (slow procurement, wrong buyer).
+- LinkedIn connection review still needs Kaeto (no connector access this session) — export connections or flag names for research.
 
-Once answered, next step is researching 5-10 real, named prospects against the qualifying checklist above — not a mass list, per master prompt §12.2 ("avoid excessive time researching businesses with no observable buying signal").
+Prospect research against the method above starts in `evidence/prospects-medical-wellness.md`.
