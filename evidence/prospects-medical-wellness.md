@@ -272,3 +272,75 @@ A real discovery-channel win: the Nutritional Therapy Association's public direc
 2. Round 3 (NTA directory) found 2 qualified — Miriam and Johanna both sent (2026-10-30).
 3. The directory approach outperformed both search-based channels this batch — worth trying DONA (doula directory search widget didn't scrape cleanly as a static page, needs a different approach) and other professional-association directories first in batch 5.
 4. Pricing policy change (2026-10-30): no more priced first-touch variant — see house style section above.
+
+---
+
+# Batch 5 (2026-10-30/31)
+
+Continued through the same NTA practitioner directory list (practice-led, not press-led) rather than starting a new search — proven higher-yield channel from batch 4.
+
+## Strong candidates
+
+### 9. Dee Dee Anderson — DTDA Training and Nutrition (Camas, WA) — SENT via Instagram DM, 2026-10-31
+- **Site:** deetrainingnutrition.squarespace.com
+- **What she does:** NTA-certified Nutritional Therapy Practitioner (2017) and GAPS practitioner. Prior career: decades in dance, fitness and entertainment — owned a talent agency, mentored performers, taught in high schools and colleges — before pivoting into nutrition.
+- **Decision-maker:** Dee Dee Anderson, confirmed solo.
+- **Observed gap:** No email opt-in/newsletter anywhere on the site.
+- **Contact channel — correction:** the site's own mailto link (`deetraingnutrition@gmail.com`) is misspelled (missing a letter) and bounces — confirmed by Kaeto. Do not use/guess the corrected spelling. Switched to Instagram (instagram.com/deetrainingnutrition, correctly spelled, listed on her own site) as the working channel. **Note: the exact DM text sent is not on file** — the drafted version was written at email length and was never explicitly trimmed for Dee Dee the way Cherie's was; whatever Kaeto actually sent should be pasted in here to replace this note.
+- **Confidence:** VERIFIED (gap); contact channel corrected after a real bounce.
+
+### 10. Amy Arter — Restored Health and Wellness (Lancaster, PA) — SENT via email, 2026-10-31
+- **Site:** restoredhealthandwellness.co
+- **What she does:** Nutritional Therapy Practitioner working with women on digestive issues, fatigue, hormonal imbalance, using a "five foundations of health" framework plus functional lab testing (GI-MAP, blood panels).
+- **Decision-maker:** Amy Arter, confirmed solo.
+- **Observed gap:** No opt-in anywhere — booking link, contact email, socials only.
+- **Contact channel confirmed:** restoredhealthwellness24@gmail.com — listed directly in the site's Contact section.
+- **Confidence:** VERIFIED.
+
+**Message sent:**
+> Hi Amy,
+>
+> I came across Restored Health and Wellness and read through your approach built around five foundations: nutrient-dense eating, digestion, sleep, stress management and blood sugar regulation.
+>
+> It made me think about something that could help visitors who aren't ready to book right away.
+>
+> Someone might read through your approach, feel like it's exactly what they need, but leave without any way to hear from you again until they're ready to book a discovery call.
+>
+> A simple email sign-up followed by a short welcome sequence could give those visitors a reason to stay connected and learn more about working with you.
+>
+> I'm an MPharm graduate who now builds email marketing systems for health and wellness practices.
+>
+> I'd be happy to put together an example of what this could look like for Restored Health and Wellness. Would you be open to seeing it?
+>
+> Kaeto
+
+### 11. Cherie Antoine — Unravel Well (Wilmington, NC) — SENT via Instagram DM, 2026-10-31
+- **Site:** unravelwell.com
+- **What she does:** Nutritional Therapy Practitioner using "The Foundations of Health" framework (nutrient-dense diet, digestion, blood sugar regulation, sleep, stress management).
+- **Decision-maker:** Cherie Antoine, confirmed solo.
+- **Observed gap:** No opt-in anywhere — checked homepage, /about, /contact. Contact page is a Tally-powered form only, no published email.
+- **Contact channel confirmed:** Instagram, @unravel.well — listed in her own NTA directory profile, not guessed.
+- **Personalization note:** her About page discloses a past history of orthorexia/disordered exercise — deliberately NOT used as the hook, same reasoning as Miriam's Hashimoto's disclosure. Used the "Foundations of Health" framework instead.
+- **Confidence:** VERIFIED.
+
+**Message sent (trimmed for Instagram DM length — shorter than the email-style house format):**
+> Hi Cherie, I came across Unravel Well and really liked how you frame things around the Foundations of Health instead of quick fixes.
+>
+> One thing I noticed: there's no way for someone to stay in touch if they're not ready to book a discovery call right away — no newsletter, nothing.
+>
+> I build simple email follow-ups for health practices for exactly this. I'm an MPharm graduate, so this is the kind of work I focus on. Want me to send over what I'd suggest for Unravel Well?
+
+## Checked, did not qualify
+- **Kelli Arbogast** (Durango, CO) — already runs an active funnel: a "Free Decode Your Bloat Mini Course" opt-in that explicitly promises "value packed weekly emails" afterward.
+- **Jennie Anderson / Enriched Nest** (Austin, TX) — has a community-signup page, a free-guide lead magnet, and explicit "Join the Enriched Nest community... no spam" copy.
+- **Trent Alvarez / Natural Health Center** (Coeur d'Alene, ID) — a client testimonial names "staff" plural; site uses "we" throughout. Team, not solo.
+- **Nichelle Alderson / iNfinitely Well** (Seattle, WA) — ambiguous: site offers a "Supervision" service (typically supervising other practitioners/trainees) and uses "we/our" extensively across four service lines. Not pursued.
+- **Rhama Albustamy** (Austin, TX) — no website listed in her NTA profile; no way to check gap or contact. Skipped.
+
+## Discovery-channel note (added for batch 6)
+This project also runs a separate, fully automated job-board discovery workstream (reports/, db/email_marketing_system.db — Upwork/PeoplePerHour/Freelancer/Contra) on a recurring schedule, unrelated to this direct-prospecting file. As of 2026-10-31 discovery-cycle-3: 19 opportunities on file total, no new clean P0/P1 found that cycle. Not this file's concern, just noted so the two tracks aren't confused.
+
+## Next steps (batch 5)
+1. Dee Dee, Amy, and Cherie all sent (2026-10-31) — watch for replies.
+2. Still need the exact DM text actually sent to Dee Dee, to replace the placeholder note above.
+3. Continue the NTA directory list in batch 6 (next unchecked names from the same page: Beth Amason, Joseph Allison, Michelle Angeli Arabelo, Hannah Armstrong, Abi Arndt, Karri Ball, and onward) before trying a different directory.
