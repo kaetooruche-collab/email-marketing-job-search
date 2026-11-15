@@ -344,3 +344,90 @@ This project also runs a separate, fully automated job-board discovery workstrea
 1. Dee Dee, Amy, and Cherie all sent (2026-10-31) — watch for replies.
 2. Still need the exact DM text actually sent to Dee Dee, to replace the placeholder note above.
 3. Continue the NTA directory list in batch 6 (next unchecked names from the same page: Beth Amason, Joseph Allison, Michelle Angeli Arabelo, Hannah Armstrong, Abi Arndt, Karri Ball, and onward) before trying a different directory.
+4. **Update (2026-11-15):** didn't continue the NTA list — hit 16 consecutive empty profiles (Beth Amason through roughly Amanda Blose all returned "No Information to Display"), a real structural dead patch in that stretch of the directory. Switched to Psychology Today's therapist directory for batch 6 instead of paging further through it.
+
+---
+
+# Batch 6 (2026-11-15)
+
+New discovery channel: Psychology Today's therapist directory, used the same way as the NTA directory — find a named solo practitioner, confirm their own personal practice site (not just their PT profile), check that site directly for the gap, never guess contact info.
+
+**New disqualifying signal found this batch, worth remembering:** a PT profile that says "Managed by [platform]" (e.g. "Managed by Rula Health") means the therapist is plugged into a third-party practice-management/staffing platform, not running their own independent marketing — treat this the same as a group practice for solo-status purposes, even though only one name is on the listing.
+
+## Strong candidates
+
+### 12. Lindsay L. Huettman — Soul Stewards Counseling & Psychotherapy, PLLC (Western Skagit/Southern Whatcom County, WA)
+- **Site:** soulstewardscounseling.com
+- **What she does:** Mental health counselor (M.A., LMHC), specializing in grief/loss, highly sensitive people, PTSD/anxiety, end-of-life/bereavement support (former hospice background), offers telehealth and walk-and-talk therapy sessions.
+- **Decision-maker:** Lindsay L. Huettman — entire site is first-person "I," no staff/team mentioned. PLLC is standard solo legal structuring, not a team signal (same reasoning applied to prior PLLC cases).
+- **Observed gap:** No automated opt-in or signup form anywhere on the site. For her group offerings specifically, she writes: "email me... to get on my mailing list for my upcoming offerings" — she is manually fielding and remembering individual emails to maintain what is effectively a waitlist, with no actual list infrastructure behind it.
+- **Contact channel confirmed:** lindsayhuettman@soulstewardscounseling.com — printed twice on her own homepage in that exact spelling, matching her domain. (One other spot on the same page has a one-off typo, "...@soulstewardscouseling.com" — not used.)
+- **Confidence:** VERIFIED.
+
+**Draft opening message (no price):**
+> Hi Lindsay,
+>
+> I came across Soul Stewards Counseling and Psychotherapy. I noticed you ask people to email you directly to get on your list for upcoming group offerings. That stood out to me — it means anyone interested in your groups is currently relying on you to remember to follow up with them individually, one email at a time.
+>
+> There's an opportunity to change that. A simple welcome sequence could do that follow-up automatically, so when someone reaches out about your groups, they immediately get added to a short series of emails letting them know what's coming, without you having to track who emailed and when.
+>
+> This wouldn't touch anything on the clinical side, just the handful of emails you already send to let people know about new offerings.
+>
+> I'm an MPharm graduate who moved into building email systems like this for health and wellness practices.
+>
+> I'd be interested in putting together an example of how this could work for Soul Stewards. Would you be open to seeing it?
+
+### 13. Dr. Alexandra (Bosco) Luger — Individual and Couples Psychotherapy (Chicago West Loop / New York, NY)
+- **Site:** dralexandraluger.com
+- **What she does:** Doctoral-level clinical psychologist (Psy.D.), 15 years' clinical experience, 10+ years in private practice. Trained at the University of Chicago, Northwestern, NYU, and completed Gottman Method Couples Therapy Levels 1–3 at the Gottman Institute; leads Seven Principles for Making Marriage Work workshops.
+- **Decision-maker:** Alexandra Bosco Luger — "Alexandra Bosco Luger, Psy.D., P.C.", first-person throughout, no team mentioned. P.C. is standard solo legal structuring.
+- **Observed gap:** Entire site is just four pages (home, couples, individuals, contact) — no blog, no newsletter, no lead magnet anywhere, confirmed by checking the homepage and the contact page directly.
+- **Contact channel confirmed:** alexandra@boscoluger.com — printed directly on her contact page ("you may also contact me directly at alexandra@boscoluger.com").
+- **Confidence:** VERIFIED.
+
+**Draft opening message (no price):**
+> Hi Alexandra,
+>
+> I came across your site for Individual and Couples Psychotherapy. I noticed you've completed Gottman Method training through Level 3 and lead Seven Principles workshops, but your site itself only gives visitors two options: read about your practice or reach out to book.
+>
+> It made me curious about what happens to someone who finds your site, isn't ready to book yet, but would want to hear more about your approach to couples work before reaching out. Right now there's no way for them to stay in touch with you in between.
+>
+> A short welcome sequence could give those visitors something useful to read while they decide, so you stay in front of them instead of losing them after one visit.
+>
+> This would only touch the marketing side, not anything to do with client records.
+>
+> I'm an MPharm graduate who moved into building email systems like this for health and wellness practices.
+>
+> I'd be interested in putting together an example of how this could work for your practice. Would you be open to seeing it?
+
+### 14. Dara Grimes — A Better Mind, A Better Me, LLC (Alexandria, VA / also licensed in Indiana)
+- **Site:** abettermindabetterme.com
+- **What she does:** Licensed Clinical Social Worker (LCSW/LICSW), 15+ years as a clinical social worker (U.S. military and private practice), founder of her own practice. Hosts her own weekly "A Better Mind, A Better Me" podcast (one-minute reflections on healthier thinking) and recently appeared as a guest on the Black Health 365 podcast (377 Instagram followers) discussing depression.
+- **Decision-maker:** Dara Grimes — confirmed solo across three independent sources (her own About page, LinkedIn, TherapyDen all describe her as founder of a solo private practice).
+- **Observed gap:** Her own podcast and the Black Health 365 guest appearance are real audience-building content, but her site offers visitors exactly two paths — book a session (SimplePractice widget) or submit a Hushmail-powered contact form — with no newsletter or way to opt in separate from booking.
+- **Contact channel:** **PARTIALLY VERIFIED, not a guessed email** — her site has no published email address anywhere (checked homepage, About, Contact); only a phone number, (703) 375-9520, and the Hushmail secure contact form (abettermindabetterme.com/contact) are available. The Instagram account found in her bio (@blackhealth365) belongs to the podcast host who interviewed her, not to Dara herself — not used as her channel. Recommend reaching out through her own site's contact form rather than guessing an email address.
+- **Confidence:** PARTIALLY VERIFIED (gap fully confirmed; contact channel limited to her own web form).
+
+**Draft opening message (no price) — for her site's contact form:**
+> Hi Dara,
+>
+> I came across A Better Mind, A Better Me after seeing you featured on the Black Health 365 podcast talking about depression. I also noticed you host your own weekly podcast with short reflections on healthier thinking.
+>
+> That made me think about everyone who hears you on one of those episodes, likes what you said, and wants to hear more from you directly. Right now the only options on your site are booking a session or filling out the contact form, so there's no way for that audience to stay in touch unless they're ready to become a client.
+>
+> A short email sequence could give those listeners somewhere to go, so the people your podcast appearances reach don't just pass through and forget.
+>
+> This would be separate from anything client-related, purely on the marketing side.
+>
+> I'm an MPharm graduate who moved into building email systems like this for health and wellness practices.
+>
+> I'd be interested in putting together an example of how this could work for A Better Mind, A Better Me. Would you be open to seeing it?
+
+## Checked, did not qualify
+- **Natalie Quinn** (Cedar Rapids, IA) — PT profile shows her as part of a named group practice, Evergreen Therapy Center, with at least 7 other endorsed therapists listed under the same practice. Team, not solo.
+- **Jareny Castillo** (Coronado, CA) — PT profile states "Managed by Rula Health" — platform-managed, not an independent solo marketing setup (see new disqualifying signal note above).
+
+## Next steps (batch 7)
+1. None of batch 6 sent yet — pending Kaeto's review and send.
+2. Psychology Today appears to be a workable channel (3 qualified out of 5 checked this round) but individual directory-listing pages are very large (100K+ characters) when scraped whole — pull individual profile pages or search-result excerpts instead of scraping full city/category listing pages.
+3. Watch for the "Managed by [platform]" signal going forward — it's now a standing disqualifier alongside group-practice pages.
